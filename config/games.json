@@ -1,2082 +1,2077 @@
 [
   {
-    "link": "projects/1/index.html",
-    "imgSrc": "projects/1/meta/apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/1/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/1/meta/apple-touch-icon.png",
     "title": "1"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/1/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/1/favicon.ico",
-    "title": "1 (CDN)"
-  },
-  {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/10-minutes-till-dawn/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/10-minutes-till-dawn/background.png",
+    "link": "https://raspelty.github.io/gamecompassassets/10-minutes-till-dawn/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/10-minutes-till-dawn/background.png",
     "title": "10 Minutes Till Dawn"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/100ng/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/100ng/100ng-logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/100ng/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/100ng/100ng-logo.png",
     "title": "100ng"
   },
   {
-    "link": "https://raspelty.github.io/compass-assets/1v1lol/index.html",
-    "imgSrc": "https://raspelty.github.io/compass-assets/1v1lol/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/1v1lol/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/1v1lol/favicon.png",
     "title": "1v1lol"
   },
   {
-    "link": "projects/1v1space/index.html",
-    "imgSrc": "projects/1v1space/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/1v1space/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/1v1space/splash.png",
     "title": "1v1.space"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/2048-multitask/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/2048-multitask/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/2048-multitask/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/2048-multitask/favicon.ico",
     "title": "2048 Multitask"
   },
   {
-    "link": "projects/2048/index.html",
-    "imgSrc": "projects/2048/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/2048/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/2048/thumb.png",
     "title": "2048"
   },
   {
-    "link": "projects/9007199254740992/index.html",
-    "imgSrc": "projects/9007199254740992/logo-4.png",
+    "link": "https://raspelty.github.io/gamecompassassets/9007199254740992/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/9007199254740992/logo-4.png",
     "title": "9007199254740992"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/99balls/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/99balls/99-balls-evo.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/99balls/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/99balls/99-balls-evo.jpg",
     "title": "99 Balls"
   },
   {
-    "link": "projects/achievementunlocked/index.html",
-    "imgSrc": "projects/achievementunlocked/achievementunlocked.png",
+    "link": "https://raspelty.github.io/gamecompassassets/achievementunlocked/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/achievementunlocked/achievementunlocked.png",
     "title": "Achievement Unlocked"
   },
   {
-    "link": "projects/adrenalinechallenge/index.html",
-    "imgSrc": "projects/adrenalinechallenge/adrenalinechallenge.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/adrenalinechallenge/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/adrenalinechallenge/adrenalinechallenge.jpg",
     "title": "Adrenaline Challenge"
   },
   {
-    "link": "projects/among-us/index.html",
-    "imgSrc": "projects/among-us/red.png",
+    "link": "https://raspelty.github.io/gamecompassassets/among-us/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/among-us/red.png",
     "title": "Among Us"
   },
   {
-    "link": "projects/avalanche/index.html",
-    "imgSrc": "projects/avalanche/avalanche.png",
+    "link": "https://raspelty.github.io/gamecompassassets/avalanche/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/avalanche/avalanche.png",
     "title": "Avalanche"
   },
   {
-    "link": "projects/backrooms/index.html",
-    "imgSrc": "projects/backrooms/img/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/backrooms/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/backrooms/img/splash.jpg",
     "title": "Backrooms"
   },
   {
-    "link": "projects/basketball-stars/index.html",
-    "imgSrc": "projects/basketball-stars/assets/images/basketball-stars.png",
+    "link": "https://raspelty.github.io/gamecompassassets/basketball-stars/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/basketball-stars/assets/images/basketball-stars.png",
     "title": "Basketball Stars"
   },
   {
-    "link": "projects/battleforgondor/index.html",
-    "imgSrc": "projects/battleforgondor/3557.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/battleforgondor/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/battleforgondor/3557.jpg",
     "title": "Battle for Gondor"
   },
   {
-    "link": "projects/bigredbutton/index.html",
-    "imgSrc": "projects/bigredbutton/bigredbutton.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bigredbutton/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bigredbutton/bigredbutton.png",
     "title": "Big Red Button"
   },
   {
-    "link": "projects/blackknight/index.html",
-    "imgSrc": "projects/blackknight/blackknight.png",
+    "link": "https://raspelty.github.io/gamecompassassets/blackknight/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/blackknight/blackknight.png",
     "title": "Black Knight"
   },
   {
-    "link": "projects/bloonstd/index.html",
-    "imgSrc": "projects/bloonstd/bloonstd.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/bloonstd/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bloonstd/bloonstd.jpg",
     "title": "Bloons TD"
   },
   {
-    "link": "projects/bloonstd2/index.html",
-    "imgSrc": "projects/bloonstd2/bloonstd2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bloonstd2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bloonstd2/bloonstd2.png",
     "title": "Bloons TD 2"
   },
   {
-    "link": "projects/bloxors/index.html",
-    "imgSrc": "projects/bloxors/block.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bloxors/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bloxors/block.png",
     "title": "Bloxors"
   },
   {
-    "link": "projects/boxhead2play/index.html",
-    "imgSrc": "projects/boxhead2play/boxhead2play.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/boxhead2play/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/boxhead2play/boxhead2play.jpg",
     "title": "Box Head"
   },
   {
-    "link": "projects/breakingthebank/index.html",
-    "imgSrc": "projects/breakingthebank/breakingthebank.png",
+    "link": "https://raspelty.github.io/gamecompassassets/breakingthebank/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/breakingthebank/breakingthebank.png",
     "title": "Breaking the Bank"
   },
   {
-    "link": "projects/btts/index.html",
-    "imgSrc": "projects/btts/images.png",
+    "link": "https://raspelty.github.io/gamecompassassets/btts/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/btts/images.png",
     "title": "Big Tower Tiny Square"
   },
   {
-    "link": "projects/cannon-basketball-4/index.html",
-    "imgSrc": "projects/cannon-basketball-4/img/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/cannon-basketball-4/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cannon-basketball-4/img/splash.png",
     "title": "Cannon Basketball 4"
   },
   {
-    "link": "projects/canyondefense/index.html",
-    "imgSrc": "projects/canyondefense/canyondefense.png",
+    "link": "https://raspelty.github.io/gamecompassassets/canyondefense/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/canyondefense/canyondefense.png",
     "title": "Canyon Defense"
   },
   {
-    "link": "projects/cell-machine/index.html",
-    "imgSrc": "projects/cell-machine/img/te9nDu.png",
+    "link": "https://raspelty.github.io/gamecompassassets/cell-machine/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cell-machine/img/te9nDu.png",
     "title": "Cell Machine"
   },
   {
-    "link": "projects/championarcher/index.html",
-    "imgSrc": "projects/championarcher/championarcher.png",
+    "link": "https://raspelty.github.io/gamecompassassets/championarcher/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/championarcher/championarcher.png",
     "title": "Champion Archer"
   },
   {
-    "link": "projects/chrome-dino/index.html",
-    "imgSrc": "projects/chrome-dino/icons/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/chrome-dino/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/chrome-dino/icons/icon-256.png",
     "title": "Chrome Dino"
   },
   {
-    "link": "projects/circlo/index.html",
-    "imgSrc": "projects/circlo/img/download.png",
+    "link": "https://raspelty.github.io/gamecompassassets/circlo/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/circlo/img/download.png",
     "title": "circlO"
   },
   {
-    "link": "projects/connect3/index.html",
-    "imgSrc": "projects/connect3/connect3.png",
+    "link": "https://raspelty.github.io/gamecompassassets/connect3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/connect3/connect3.png",
     "title": "Connect 3"
   },
   {
-    "link": "projects/cookie-clicker/index.html",
-    "imgSrc": "projects/cookie-clicker/cookie1.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/cookie-clicker/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cookie-clicker/cookie1.jpeg",
     "title": "Cookie Clicker"
   },
   {
-    "link": "projects/craftmine/index.html",
-    "imgSrc": "projects/craftmine/images/craftmine.png",
+    "link": "https://raspelty.github.io/gamecompassassets/craftmine/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/craftmine/images/craftmine.png",
     "title": "CraftMine"
   },
   {
-    "link": "projects/creativekillchamber/index.html",
-    "imgSrc": "projects/creativekillchamber/creativekillchamber.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/creativekillchamber/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/creativekillchamber/creativekillchamber.jpg",
     "title": "Creative Kill Chamber"
   },
   {
-    "link": "projects/csgo-clicker/index.html",
-    "imgSrc": "projects/csgo-clicker/images/vanguard.png",
+    "link": "https://raspelty.github.io/gamecompassassets/csgo-clicker/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/csgo-clicker/images/vanguard.png",
     "title": "CS:GO Clicker"
   },
   {
-    "link": "projects/ctr/index.html",
-    "imgSrc": "projects/ctr/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ctr/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ctr/logo.png",
     "title": "Cut the Rope"
   },
   {
-    "link": "projects/ctr-holiday/index.html",
-    "imgSrc": "projects/ctr-holiday/Holiday_Gift.webp",
+    "link": "https://raspelty.github.io/gamecompassassets/ctr-holiday/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ctr-holiday/Holiday_Gift.webp",
     "title": "Cut the Rope Holiday"
   },
   {
-    "link": "projects/ctr-tr/index.html",
-    "imgSrc": "projects/ctr-tr/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ctr-tr/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ctr-tr/logo.png",
     "title": "Cut the Rope Time Travel"
   },
   {
-    "link": "projects/cubefield/index.html",
-    "imgSrc": "projects/cubefield/cubefield.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/cubefield/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cubefield/cubefield.jpg",
     "title": "Cubefield"
   },
   {
-    "link": "projects/cupcake2048/index.html",
-    "imgSrc": "projects/cupcake2048/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/cupcake2048/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cupcake2048/favicon.png",
     "title": "Cupcake 2048"
   },
   {
-    "link": "projects/deal-or-no-deal/index.html",
-    "imgSrc": "projects/deal-or-no-deal/index.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/deal-or-no-deal/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/deal-or-no-deal/index.jpg",
     "title": "Deal or No Deal"
   },
   {
-    "link": "projects/death-run-3d/index.html",
-    "imgSrc": "projects/death-run-3d/img/death.png",
+    "link": "https://raspelty.github.io/gamecompassassets/death-run-3d/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/death-run-3d/img/death.png",
     "title": "Death Run 3D"
   },
   {
-    "link": "projects/defend-the-tank/index.html",
-    "imgSrc": "projects/defend-the-tank/images/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/defend-the-tank/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/defend-the-tank/images/splash.jpg",
     "title": "Defend the Tank"
   },
   {
-    "link": "projects/doge2048/index.html",
-    "imgSrc": "projects/doge2048/meta/apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/doge2048/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/doge2048/meta/apple-touch-icon.png",
     "title": "Doge 2048"
   },
   {
-    "link": "projects/DogeMiner/index.html",
-    "imgSrc": "projects/DogeMiner/img/dogeminer_300x300.png",
+    "link": "https://raspelty.github.io/gamecompassassets/DogeMiner/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/DogeMiner/img/dogeminer_300x300.png",
     "title": "Doge Miner"
   },
   {
-    "link": "projects/doodle-jump/index.html",
-    "imgSrc": "projects/doodle-jump/doodle.png",
+    "link": "https://raspelty.github.io/gamecompassassets/doodle-jump/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/doodle-jump/doodle.png",
     "title": "Doodle Jump"
   },
   {
-    "link": "projects/doublewires/index.html",
-    "imgSrc": "projects/doublewires/doublewires.png",
+    "link": "https://raspelty.github.io/gamecompassassets/doublewires/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/doublewires/doublewires.png",
     "title": "Double Wires"
   },
   {
-    "link": "projects/draw-the-hill/index.html",
-    "imgSrc": "projects/draw-the-hill/icons/icon-512.png",
+    "link": "https://raspelty.github.io/gamecompassassets/draw-the-hill/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/draw-the-hill/icons/icon-512.png",
     "title": "Draw the Hill"
   },
   {
-    "link": "projects/ducklife1/index.html",
-    "imgSrc": "projects/ducklife1/ducklife.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ducklife1/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ducklife1/ducklife.png",
     "title": "Duck Life"
   },
   {
-    "link": "projects/ducklife2/index.html",
-    "imgSrc": "projects/ducklife2/ducklife2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ducklife2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ducklife2/ducklife2.png",
     "title": "Duck Life 2"
   },
   {
-    "link": "projects/ducklife3/index.html",
-    "imgSrc": "projects/ducklife3/duck.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ducklife3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ducklife3/duck.png",
     "title": "Duck Life 3"
   },
   {
-    "link": "projects/edgenotfound/index.html",
-    "imgSrc": "projects/edgenotfound/edge.png",
+    "link": "https://raspelty.github.io/gamecompassassets/edgenotfound/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/edgenotfound/edge.png",
     "title": "Edge Not Found"
   },
   {
-    "link": "projects/elasticman/index.html",
-    "imgSrc": "projects/elasticman/elasticman.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/elasticman/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/elasticman/elasticman.jpg",
     "title": "Elastic Man"
   },
   {
-    "link": "projects/endlesswar3/index.html",
-    "imgSrc": "projects/endlesswar3/endlesswar3.png",
+    "link": "https://raspelty.github.io/gamecompassassets/endlesswar3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/endlesswar3/endlesswar3.png",
     "title": "Endless War 3"
   },
   {
-    "link": "projects/evil-glitch/index.html",
-    "imgSrc": "projects/evil-glitch/evil.png",
+    "link": "https://raspelty.github.io/gamecompassassets/evil-glitch/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/evil-glitch/evil.png",
     "title": "Evil Glitch"
   },
   {
-    "link": "projects/exo/index.html",
-    "imgSrc": "projects/exo/img/small.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/exo/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/exo/img/small.jpg",
     "title": "Exo"
   },
   {
-    "link": "projects/factoryballs/index.html",
-    "imgSrc": "projects/factoryballs/images/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/factoryballs/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/factoryballs/images/splash.png",
     "title": "Factory Balls Forever"
   },
   {
-    "link": "projects/fake-virus/icon.png",
-    "imgSrc": "projects/fake-virus/icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/fake-virus/icon.png",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fake-virus/icon.png",
     "title": "Fake Virus"
   },
   {
-    "link": "projects/flappy-2048/index.html",
-    "imgSrc": "projects/flappy-2048/meta/apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/flappy-2048/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/flappy-2048/meta/apple-touch-icon.png",
     "title": "Flappy 2048"
   },
   {
-    "link": "projects/flappy-bird/index.html",
-    "imgSrc": "projects/flappy-bird/assets/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/flappy-bird/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/flappy-bird/assets/thumb.png",
     "title": "Flappy Bird"
   },
   {
-    "link": "projects/flashtetris/index.html",
-    "imgSrc": "projects/flashtetris/flashtetris.png",
+    "link": "https://raspelty.github.io/gamecompassassets/flashtetris/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/flashtetris/flashtetris.png",
     "title": "Flash Tetris"
   },
   {
-    "link": "projects/game-inside/index.html",
-    "imgSrc": "projects/game-inside/img/display.png",
+    "link": "https://raspelty.github.io/gamecompassassets/game-inside/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/game-inside/img/display.png",
     "title": "Game Inside a Game Inside a Game..."
   },
   {
-    "link": "projects/geodash/index.html",
-    "imgSrc": "projects/geodash/geoscratchicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/geodash/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/geodash/geoscratchicon.png",
     "title": "Geometry Dash (Scratch)"
   },
   {
-    "link": "projects/getaway-shootout/index.html",
-    "imgSrc": "projects/getaway-shootout/img/images.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/getaway-shootout/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/getaway-shootout/img/images.jpg",
     "title": "Getaway Shootout"
   },
   {
-    "link": "projects/gimme-the-airpod/index.html",
-    "imgSrc": "projects/gimme-the-airpod/img/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/gimme-the-airpod/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/gimme-the-airpod/img/logo.png",
     "title": "Gimme the Airpod"
   },
   {
-    "link": "projects/glass-city/index.html",
-    "imgSrc": "projects/glass-city/image.png",
+    "link": "https://raspelty.github.io/gamecompassassets/glass-city/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/glass-city/image.png",
     "title": "Glass City"
   },
   {
-    "link": "projects/google-snake/index.html",
-    "imgSrc": "projects/google-snake/img/snake.png",
+    "link": "https://raspelty.github.io/gamecompassassets/google-snake/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/google-snake/img/snake.png",
     "title": "Google Snake"
   },
   {
-    "link": "projects/grindcraft/index.html",
-    "imgSrc": "projects/grindcraft/img/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/grindcraft/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/grindcraft/img/splash.png",
     "title": "Grind Craft"
   },
   {
-    "link": "projects/hackertype/index.html",
-    "imgSrc": "projects/hackertype/logo192.png",
+    "link": "https://raspelty.github.io/gamecompassassets/hackertype/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hackertype/logo192.png",
     "title": "Hacker Typer"
   },
   {
-    "link": "projects/hba/index.html",
-    "imgSrc": "projects/hba/hoverbotarena.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/hba/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hba/hoverbotarena.jpg",
     "title": "Hover Bot Arena"
   },
   {
-    "link": "projects/helicopter/index.html",
-    "imgSrc": "projects/helicopter/helicopter.png",
+    "link": "https://raspelty.github.io/gamecompassassets/helicopter/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/helicopter/helicopter.png",
     "title": "Helicopter"
   },
   {
-    "link": "projects/hexempire/index.html",
-    "imgSrc": "projects/hexempire/hexempire.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/hexempire/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hexempire/hexempire.jpg",
     "title": "Hex Empire"
   },
   {
-    "link": "projects/HexGL/index.html",
-    "imgSrc": "projects/HexGL/icon_256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/HexGL/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/HexGL/icon_256.png",
     "title": "HexGL"
   },
   {
-    "link": "projects/hextris/index.html",
-    "imgSrc": "projects/hextris/images/hextris-logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/hextris/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hextris/images/hextris-logo.png",
     "title": "Hextris"
   },
   {
-    "link": "projects/idle-breakout/index.html",
-    "imgSrc": "projects/idle-breakout/img/thumbnail.png",
+    "link": "https://raspelty.github.io/gamecompassassets/idle-breakout/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/idle-breakout/img/thumbnail.png",
     "title": "Idle Breakout"
   },
   {
-    "link": "projects/idle-shark/index.html",
-    "imgSrc": "projects/idle-shark/img/sharkgame.png",
+    "link": "https://raspelty.github.io/gamecompassassets/idle-shark/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/idle-shark/img/sharkgame.png",
     "title": "Idle Shark"
   },
   {
-    "link": "projects/impossiblequiz/index.html",
-    "imgSrc": "projects/impossiblequiz/impossiblequiz.png",
+    "link": "https://raspelty.github.io/gamecompassassets/impossiblequiz/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/impossiblequiz/impossiblequiz.png",
     "title": "Impossible Quiz"
   },
   {
-    "link": "projects/interactivebuddy/index.html",
-    "imgSrc": "projects/interactivebuddy/interactivebuddy.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/interactivebuddy/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/interactivebuddy/interactivebuddy.jpg",
     "title": "Interactive Buddy"
   },
   {
-    "link": "projects/just-one-boss/index.html",
-    "imgSrc": "projects/just-one-boss/pv1Gr5.png",
+    "link": "https://raspelty.github.io/gamecompassassets/just-one-boss/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/just-one-boss/pv1Gr5.png",
     "title": "Just One Boss"
   },
   {
-    "link": "projects/kittencannon/index.html",
-    "imgSrc": "projects/kittencannon/kittencannon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/kittencannon/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/kittencannon/kittencannon.png",
     "title": "Kitten Cannon"
   },
   {
-    "link": "projects/krunker/index.html",
-    "imgSrc": "projects/krunker/img/krunker-io.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/krunker/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/krunker/img/krunker-io.jpg",
     "title": "Krunker"
   },
   {
-    "link": "projects/learntofly/index.html",
-    "imgSrc": "projects/learntofly/learntofly.png",
+    "link": "https://raspelty.github.io/gamecompassassets/learntofly/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/learntofly/learntofly.png",
     "title": "Learn To Fly"
   },
   {
-    "link": "projects/mario/index.html",
-    "imgSrc": "projects/mario/Theme/Mario.gif",
+    "link": "https://raspelty.github.io/gamecompassassets/mario/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/mario/Theme/Mario.gif",
     "title": "Mario"
   },
   {
-    "link": "projects/matrixrampage/index.html",
-    "imgSrc": "projects/matrixrampage/matrixrampage.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/matrixrampage/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/matrixrampage/matrixrampage.jpg",
     "title": "Matrix Rampage"
   },
   {
-    "link": "projects/meme2048/index.html",
-    "imgSrc": "projects/meme2048/img/rickroll.gif",
+    "link": "https://raspelty.github.io/gamecompassassets/meme2048/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/meme2048/img/rickroll.gif",
     "title": "Meme 2048"
   },
   {
-    "link": "projects/minecraft/index.html",
-    "imgSrc": "projects/minecraft/splash.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/minecraft/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/minecraft/splash.jpeg",
     "title": "Eaglercraft"
   },
   {
-    "link": "projects/minecraft-classic/index.html",
-    "imgSrc": "projects/minecraft-classic/pack.png",
+    "link": "https://raspelty.github.io/gamecompassassets/minecraft-classic/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/minecraft-classic/pack.png",
     "title": "Minecraft Classic"
   },
   {
-    "link": "projects/minesweeper/index.html",
-    "imgSrc": "projects/minesweeper/img/minesweeper.png",
+    "link": "https://raspelty.github.io/gamecompassassets/minesweeper/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/minesweeper/img/minesweeper.png",
     "title": "Minesweeper"
   },
   {
-    "link": "projects/miniputt/index.html",
-    "imgSrc": "projects/miniputt/miniputt.png",
+    "link": "https://raspelty.github.io/gamecompassassets/miniputt/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/miniputt/miniputt.png",
     "title": "Mini-putt"
   },
   {
-    "link": "projects/missiles/index.html",
-    "imgSrc": "projects/missiles/miss.png",
+    "link": "https://raspelty.github.io/gamecompassassets/missiles/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/missiles/miss.png",
     "title": "Missiles"
   },
   {
-    "link": "projects/motox3m/index.html",
-    "imgSrc": "projects/motox3m/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/motox3m/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/motox3m/splash.jpg",
     "title": "MotoX3M"
   },
   {
-    "link": "projects/motox3m-pool/index.html",
-    "imgSrc": "projects/motox3m-pool/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/motox3m-pool/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/motox3m-pool/splash.jpg",
     "title": "MotoX3M Pool"
   },
   {
-    "link": "projects/motox3m-spooky/index.html",
-    "imgSrc": "projects/motox3m-spooky/splash.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/motox3m-spooky/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/motox3m-spooky/splash.jpeg",
     "title": "MotoX3M Spooky"
   },
   {
-    "link": "projects/motox3m-winter/index.html",
-    "imgSrc": "projects/motox3m-winter/download.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/motox3m-winter/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/motox3m-winter/download.jpeg",
     "title": "MotoX3M Winter"
   },
   {
-    "link": "projects/n-gon/index.html",
-    "imgSrc": "projects/n-gon/bot.png",
+    "link": "https://raspelty.github.io/gamecompassassets/n-gon/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/n-gon/bot.png",
     "title": "n-gon"
   },
   {
-    "link": "projects/ns-shaft/index.html",
-    "imgSrc": "projects/ns-shaft/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ns-shaft/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ns-shaft/favicon.png",
     "title": "NS-Shaft"
   },
   {
-    "link": "projects/om-bounce/index.html",
-    "imgSrc": "projects/om-bounce/assets/icon.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/om-bounce/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/om-bounce/assets/icon.jpeg",
     "title": "Om Nom Bounce"
   },
   {
-    "link": "projects/pandemic2/index.html",
-    "imgSrc": "projects/pandemic2/pandemic2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/pandemic2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/pandemic2/pandemic2.png",
     "title": "Pandemic 2"
   },
   {
-    "link": "projects/papaspizzaria/index.html",
-    "imgSrc": "projects/papaspizzaria/papaspizzaria.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/papaspizzaria/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/papaspizzaria/papaspizzaria.jpg",
     "title": "Papa's Pizzaria"
   },
   {
-    "link": "projects/paperio2/index.html",
-    "imgSrc": "projects/paperio2/images/icon512.png",
+    "link": "https://raspelty.github.io/gamecompassassets/paperio2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/paperio2/images/icon512.png",
     "title": "Paper.io 2"
   },
   {
-    "link": "projects/papery-planes/index.html",
-    "imgSrc": "projects/papery-planes/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/papery-planes/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/papery-planes/splash.jpg",
     "title": "Papery Planes"
   },
   {
-    "link": "projects/particle-clicker/index.html",
-    "imgSrc": "projects/particle-clicker/assets/mobile/original.png",
+    "link": "https://raspelty.github.io/gamecompassassets/particle-clicker/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/particle-clicker/assets/mobile/original.png",
     "title": "Particle Clicker"
   },
   {
-    "link": "projects/polybranch/index.html",
-    "imgSrc": "projects/polybranch/img/pic1.png",
+    "link": "https://raspelty.github.io/gamecompassassets/polybranch/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/polybranch/img/pic1.png",
     "title": "PolyBranch"
   },
   {
-    "link": "projects/portalflash/index.html",
-    "imgSrc": "projects/portalflash/portaltheflashversion.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/portalflash/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/portalflash/portaltheflashversion.jpg",
     "title": "Portal (Flash)"
   },
   {
-    "link": "projects/precision-client/index.html",
-    "imgSrc": "projects/precision-client/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/precision-client/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/precision-client/logo.png",
     "title": "Precision Client (Eaglercraft)"
   },
   {
-    "link": "projects/push-the-square/index.html",
-    "imgSrc": "projects/push-the-square/img/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/push-the-square/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/push-the-square/img/splash.png",
     "title": "Push The Square"
   },
   {
-    "link": "projects/push-your-luck/index.html",
-    "imgSrc": "projects/push-your-luck/assets/img/push.png",
+    "link": "https://raspelty.github.io/gamecompassassets/push-your-luck/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/push-your-luck/assets/img/push.png",
     "title": "Push Your Luck"
   },
   {
-    "link": "projects/retro-bowl/index.html",
-    "imgSrc": "projects/retro-bowl/img/icon.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/retro-bowl/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/retro-bowl/img/icon.jpg",
     "title": "Retro Bowl"
   },
   {
-    "link": "projects/rolly-vortex/index.html",
-    "imgSrc": "projects/rolly-vortex/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/rolly-vortex/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/rolly-vortex/icon-256.png",
     "title": "Rolly Vortex"
   },
   {
-    "link": "projects/rooftop-snipers/index.html",
-    "imgSrc": "projects/rooftop-snipers/img/preview.png",
+    "link": "https://raspelty.github.io/gamecompassassets/rooftop-snipers/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/rooftop-snipers/img/preview.png",
     "title": "Rooftop Snipers"
   },
   {
-    "link": "projects/sand-game/index.html",
-    "imgSrc": "projects/sand-game/sand.png",
+    "link": "https://raspelty.github.io/gamecompassassets/sand-game/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sand-game/sand.png",
     "title": "Sand Game"
   },
   {
-    "link": "projects/slope/index.html",
-    "imgSrc": "projects/slope/slope4.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/slope/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/slope/slope4.jpeg",
     "title": "Slope"
   },
   {
-    "link": "projects/sm64/index.html",
-    "imgSrc": "projects/sm64/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/sm64/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sm64/logo.png",
     "title": "Super Mario 64"
   },
   {
-    "link": "projects/smashkarts/index.html",
-    "imgSrc": "projects/smashkarts/images/icon-512.png",
+    "link": "https://raspelty.github.io/gamecompassassets/smashkarts/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/smashkarts/images/icon-512.png",
     "title": "Smash Carts"
   },
   {
-    "link": "projects/smokingbarrels/index.html",
-    "imgSrc": "projects/smokingbarrels/smokingbarrels.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/smokingbarrels/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/smokingbarrels/smokingbarrels.jpg",
     "title": "Smoking Barrels"
   },
   {
-    "link": "projects/snowbattle/index.html",
-    "imgSrc": "projects/snowbattle/img/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/snowbattle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/snowbattle/img/logo.png",
     "title": "Snowbattle"
   },
   {
-    "link": "projects/soldier-legend/index.html",
-    "imgSrc": "projects/soldier-legend/images/splash.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/soldier-legend/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/soldier-legend/images/splash.jpeg",
     "title": "Soilder Legend"
   },
   {
-    "link": "projects/solitaire/index.html",
-    "imgSrc": "projects/solitaire/screen-shot.png",
+    "link": "https://raspelty.github.io/gamecompassassets/solitaire/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/solitaire/screen-shot.png",
     "title": "Solitare"
   },
   {
-    "link": "projects/sort-the-court/index.html",
-    "imgSrc": "projects/sort-the-court/img/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/sort-the-court/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sort-the-court/img/splash.png",
     "title": "Sort The Court"
   },
   {
-    "link": "projects/soundboard/index.html",
-    "imgSrc": "projects/soundboard/img/mlg-favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/soundboard/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/soundboard/img/mlg-favicon.png",
     "title": "Soundboard"
   },
   {
-    "link": "projects/stack/index.html",
-    "imgSrc": "projects/stack/stack.png",
+    "link": "https://raspelty.github.io/gamecompassassets/stack/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stack/stack.png",
     "title": "Stack"
   },
   {
-    "link": "projects/stack-bump-3d/index.html",
-    "imgSrc": "projects/stack-bump-3d/thumbnail.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stack-bump-3d/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stack-bump-3d/thumbnail.jpg",
     "title": "Stack Bump 3D"
   },
   {
-    "link": "projects/stealingthediamond/index.html",
-    "imgSrc": "projects/stealingthediamond/stealingthediamond.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stealingthediamond/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stealingthediamond/stealingthediamond.jpg",
     "title": "Stealing The Diamond"
   },
   {
-    "link": "projects/stickwar/index.html",
-    "imgSrc": "projects/stickwar/stickwar.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stickwar/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stickwar/stickwar.jpg",
     "title": "Stick War"
   },
   {
-    "link": "projects/stormthehouse2/index.html",
-    "imgSrc": "projects/stormthehouse2/stormthehouse2.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stormthehouse2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stormthehouse2/stormthehouse2.jpg",
     "title": "Storm The House 2"
   },
   {
-    "link": "projects/superhot/index.html",
-    "imgSrc": "projects/superhot/hot.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/superhot/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/superhot/hot.jpg",
     "title": "Superhot"
   },
   {
-    "link": "projects/swerve/index.html",
-    "imgSrc": "projects/swerve/img/favicon.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/swerve/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/swerve/img/favicon.jpg",
     "title": "Swerve"
   },
   {
-    "link": "projects/tacticalassasin2/index.html",
-    "imgSrc": "projects/tacticalassasin2/tacticalassassin2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tacticalassasin2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tacticalassasin2/tacticalassassin2.png",
     "title": "Tactical Assassin 2"
   },
   {
-    "link": "projects/tank-trouble-2/index.html",
-    "imgSrc": "projects/tank-trouble-2/tank.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/tank-trouble-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tank-trouble-2/tank.jpeg",
     "title": "Tank Trouble 2"
   },
   {
-    "link": "projects/tanuki-sunset/index.html",
-    "imgSrc": "projects/tanuki-sunset/img/cover.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tanuki-sunset/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tanuki-sunset/img/cover.png",
     "title": "Tanuki Sunset"
   },
   {
-    "link": "projects/temple-run-2/index.html",
-    "imgSrc": "projects/temple-run-2/img/og-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/temple-run-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/temple-run-2/img/og-icon.png",
     "title": "Temple Run 2"
   },
   {
-    "link": "projects/thebattle/index.html",
-    "imgSrc": "projects/thebattle/thebattle.png",
+    "link": "https://raspelty.github.io/gamecompassassets/thebattle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/thebattle/thebattle.png",
     "title": "The Battle"
   },
   {
-    "link": "projects/the-final-earth/index.html",
-    "imgSrc": "projects/the-final-earth/images.png",
+    "link": "https://raspelty.github.io/gamecompassassets/the-final-earth/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/the-final-earth/images.png",
     "title": "The Final Earth"
   },
   {
-    "link": "projects/theheist/index.html",
-    "imgSrc": "projects/theheist/theheist.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/theheist/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/theheist/theheist.jpg",
     "title": "The Heist"
   },
   {
-    "link": "projects/there-is-no-game/index.html",
-    "imgSrc": "projects/there-is-no-game/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/there-is-no-game/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/there-is-no-game/logo.png",
     "title": "There Is No Game"
   },
   {
-    "link": "projects/thisistheonlylevel/index.html",
-    "imgSrc": "projects/thisistheonlylevel/thisistheonlylevel.png",
+    "link": "https://raspelty.github.io/gamecompassassets/thisistheonlylevel/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/thisistheonlylevel/thisistheonlylevel.png",
     "title": "This Is The Only Level"
   },
   {
-    "link": "projects/tosstheturtle/index.html",
-    "imgSrc": "projects/tosstheturtle/tosstheturtle.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tosstheturtle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tosstheturtle/tosstheturtle.png",
     "title": "Toss The Turtle"
   },
   {
-    "link": "projects/tube-jumpers/index.html",
-    "imgSrc": "projects/tube-jumpers/img/shark.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/tube-jumpers/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tube-jumpers/img/shark.jpg",
     "title": "Tube Jumpers"
   },
   {
-    "link": "projects/tunnel-rush/index.html",
-    "imgSrc": "projects/tunnel-rush/img/tunnel.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/tunnel-rush/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tunnel-rush/img/tunnel.jpg",
     "title": "Tunnel Rush"
   },
   {
-    "link": "projects/tv-static/index.html",
-    "imgSrc": "projects/tv-static/static.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tv-static/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tv-static/static.png",
     "title": "TV Static"
   },
   {
-    "link": "projects/vex3/index.html",
-    "imgSrc": "projects/vex3/vex3.png",
+    "link": "https://raspelty.github.io/gamecompassassets/vex3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/vex3/vex3.png",
     "title": "Vex 3"
   },
   {
-    "link": "projects/vex4/index.html",
-    "imgSrc": "projects/vex4/vex4.png",
+    "link": "https://raspelty.github.io/gamecompassassets/vex4/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/vex4/vex4.png",
     "title": "Vex 4"
   },
   {
-    "link": "projects/vex5/index.html",
-    "imgSrc": "projects/vex5/vex.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/vex5/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/vex5/vex.jpeg",
     "title": "Vex 5"
   },
   {
-    "link": "projects/vex6/index.html",
-    "imgSrc": "projects/vex6/assets/icon.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/vex6/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/vex6/assets/icon.jpeg",
     "title": "Vex 6"
   },
   {
-    "link": "projects/webretro-local/index.html",
-    "imgSrc": "projects/webretro-local/assets/icon204.png",
+    "link": "https://raspelty.github.io/gamecompassassets/webretro-local/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/webretro-local/assets/icon204.png",
     "title": "Web Retro Local"
   },
   {
-    "link": "projects/wolf3d/index.html",
-    "imgSrc": "projects/wolf3d/art/wolf3d.png",
+    "link": "https://raspelty.github.io/gamecompassassets/wolf3d/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/wolf3d/art/wolf3d.png",
     "title": "Wolfenstein 3D"
   },
   {
-    "link": "projects/wordle/index.html",
-    "imgSrc": "projects/wordle/img/logo_512x512.png",
+    "link": "https://raspelty.github.io/gamecompassassets/wordle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/wordle/img/logo_512x512.png",
     "title": "Wordle"
   },
   {
-    "link": "projects/worlds-hardest-game/index.html",
-    "imgSrc": "projects/worlds-hardest-game/images/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/worlds-hardest-game/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/worlds-hardest-game/images/splash.jpg",
     "title": "World's Hardest Game"
   },
   {
-    "link": "projects/worlds-hardest-game-2/index.html",
-    "imgSrc": "projects/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/worlds-hardest-game-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
     "title": "World's Hardest Game 2"
   },
   {
-    "link": "projects/you-are-bezos/index.html",
-    "imgSrc": "projects/you-are-bezos/img/banner.png",
+    "link": "https://raspelty.github.io/gamecompassassets/you-are-bezos/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/you-are-bezos/img/banner.png",
     "title": "You Are Jeff Bezos"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/a-dance-of-fire-and-ice/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/a-dance-of-fire-and-ice/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/a-dance-of-fire-and-ice/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/a-dance-of-fire-and-ice/splash.png",
     "title": "A Dance of Fire and Ice"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/adarkroom/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/adarkroom/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/adarkroom/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/adarkroom/favicon.ico",
     "title": "A Dark Room"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/adventure-drivers/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/adventure-drivers/backblue.gif",
+    "link": "https://raspelty.github.io/gamecompassassets/adventure-drivers/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/adventure-drivers/backblue.gif",
     "title": "Adventure Drivers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ages-of-conflict/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ages-of-conflict/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/ages-of-conflict/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ages-of-conflict/splash.jpg",
     "title": "Ages of Conflict"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/alienhominid/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/alienhominid/alienhominid.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/alienhominid/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/alienhominid/alienhominid.jpg",
     "title": "Alien Hominid"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/align-4/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/align-4/board.png",
+    "link": "https://raspelty.github.io/gamecompassassets/align-4/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/align-4/board.png",
     "title": "Align 4"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/amazing-rope-police/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/amazing-rope-police/amazing-strange-rope-police-vice-spider-vegas.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/amazing-rope-police/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/amazing-rope-police/amazing-strange-rope-police-vice-spider-vegas.jpg",
     "title": "Amazing Rope Police"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/amidst-the-clouds/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/amidst-the-clouds/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/amidst-the-clouds/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/amidst-the-clouds/splash.png",
     "title": "Amidst the Clouds"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/angelunder/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/angelunder/index.html",
     "imgSrc": "",
     "title": "Angel Under"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/angry-sharks/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/angry-sharks/index.html",
     "imgSrc": "",
     "title": "Angry Sharks"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/aquapark-slides/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/aquapark-slides/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/aquapark-slides/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/aquapark-slides/splash.png",
     "title": "Aquapark Slides"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/astray/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/astray/ball.png",
+    "link": "https://raspelty.github.io/gamecompassassets/astray/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/astray/ball.png",
     "title": "Astray"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/awesometanks2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/awesometanks2/awesometanks2.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/awesometanks2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/awesometanks2/awesometanks2.jpg",
     "title": "Awesome Tanks 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/backrooms-2d/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/backrooms-2d/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/backrooms-2d/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/backrooms-2d/splash.png",
     "title": "Backrooms 2D"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/backrooms2d/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/backrooms2d/BF18A6F3-4A1B-4AF7-B383-B9A359A1DBDF.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/backrooms2d/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/backrooms2d/BF18A6F3-4A1B-4AF7-B383-B9A359A1DBDF.jpeg",
     "title": "Backrooms 2D"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bacon-may-die/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bacon-may-die/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bacon-may-die/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bacon-may-die/splash.png",
     "title": "Bacon May Die"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bad-ice-cream-2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bad-ice-cream-2/bad-ice-cream-2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bad-ice-cream-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bad-ice-cream-2/bad-ice-cream-2.png",
     "title": "Bad Ice Cream 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bad-ice-cream-3/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bad-ice-cream-3/bad-ice-cream-3.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bad-ice-cream-3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bad-ice-cream-3/bad-ice-cream-3.png",
     "title": "Bad Ice Cream 3"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bad-ice-cream/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bad-ice-cream/bad-ice-cream.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bad-ice-cream/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bad-ice-cream/bad-ice-cream.png",
     "title": "Bad Ice Cream"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/baldis-basics/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/baldis-basics/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/baldis-basics/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/baldis-basics/splash.png",
     "title": "Baldi's Basics"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/balldodge/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/balldodge/1D9A05FA-1D29-40D3-8DA3-F9A30AD7470E.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/balldodge/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/balldodge/1D9A05FA-1D29-40D3-8DA3-F9A30AD7470E.jpeg",
     "title": "Ball Dodge"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ballistic-chickens/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ballistic-chickens/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ballistic-chickens/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ballistic-chickens/logo.png",
     "title": "Ballistic Chickens"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/basket-random/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/basket-random/splash.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/basket-random/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/basket-random/splash.jpeg",
     "title": "Basket Random"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/basketbros-io/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/basketbros-io/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/basketbros-io/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/basketbros-io/favicon.png",
     "title": "Basketbros.io"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bitlife/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bitlife/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bitlife/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bitlife/logo.png",
     "title": "Bitlife"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/blacholesquare/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/blacholesquare/icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/blacholesquare/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/blacholesquare/icon.png",
     "title": "Blachole Square"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/blockpost/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/blockpost/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/blockpost/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/blockpost/thumb.png",
     "title": "Blockpost"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bntts/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/bntts/index.html",
     "imgSrc": "",
     "title": "Big Nose TTS"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bobtherobber2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bobtherobber2/34d6aae0257d4e4c8068cbdfc11a8758-512x512.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/bobtherobber2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bobtherobber2/34d6aae0257d4e4c8068cbdfc11a8758-512x512.jpeg",
     "title": "Bob the Robber 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bonkio/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bonkio/image.png",
+    "link": "https://raspelty.github.io/gamecompassassets/bonkio/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bonkio/image.png",
     "title": "Bonk.io"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/boxing-random/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/boxing-random/512x340.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/boxing-random/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/boxing-random/512x340.jpg",
     "title": "Boxing Random"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/btd4/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/btd4/index.html",
     "imgSrc": "",
     "title": "Bloons TD 4"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/btd5/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/btd5/BT5_Deluxe_logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/btd5/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/btd5/BT5_Deluxe_logo.png",
     "title": "Bloons TD 5"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/burger-and-frights/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/burger-and-frights/icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/burger-and-frights/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/burger-and-frights/icon.png",
     "title": "Burger and Frights"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bus and subway/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/bus and subway/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/bus and subway/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/bus and subway/favicon.ico",
     "title": "Bus and Subway"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/cars-simulator/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/cars-simulator/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/cars-simulator/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cars-simulator/splash.png",
     "title": "Cars Simulator"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/champion-island/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/champion-island/CTA-Archery-174787996-174787824.png",
+    "link": "https://raspelty.github.io/gamecompassassets/champion-island/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/champion-island/CTA-Archery-174787996-174787824.png",
     "title": "Champion Island"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/checkers/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/checkers/image.png",
+    "link": "https://raspelty.github.io/gamecompassassets/checkers/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/checkers/image.png",
     "title": "Checkers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/chess/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/chess/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/chess/84391856-3910-4B44-AF7E-ACF1056658C2.jpeg",
     "title": "Chess"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/chill-radio/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/chill-radio/index.html",
     "imgSrc": "",
     "title": "Chill Radio"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/classicube/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/classicube/index.html",
     "imgSrc": "",
     "title": "ClassiCube"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/cluster-rush/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/cluster-rush/icon.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/cluster-rush/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cluster-rush/icon.jpg",
     "title": "Cluster Rush"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/CMM Client/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/CMM Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/CMM Client/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/CMM Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
     "title": "CMM Client"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/cnpingpong/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/cnpingpong/tabletennisultimate.png",
+    "link": "https://raspelty.github.io/gamecompassassets/cnpingpong/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/cnpingpong/tabletennisultimate.png",
     "title": "Table Tennis"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/core-ball/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/core-ball/pr_source.png",
+    "link": "https://raspelty.github.io/gamecompassassets/core-ball/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/core-ball/pr_source.png",
     "title": "Core Ball"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/crossyroad/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/crossyroad/crossyroad.png",
+    "link": "https://raspelty.github.io/gamecompassassets/crossyroad/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/crossyroad/crossyroad.png",
     "title": "Crossy Road"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dante/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dante/__big (1).jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/dante/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/dante/__big (1).jpg",
     "title": "Dante"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/deepest-sword/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/deepest-sword/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/deepest-sword/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/deepest-sword/splash.jpg",
     "title": "Deepest Sword"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/doctor-acorn2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/doctor-acorn2/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/doctor-acorn2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/doctor-acorn2/icon-256.png",
     "title": "Doctor Acorn 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dodge/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dodge/CEB64188-C91B-4FEE-95C1-3ACF6A8CA009.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/dodge/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/dodge/CEB64188-C91B-4FEE-95C1-3ACF6A8CA009.jpeg",
     "title": "Dodge"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Dogeminer2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Dogeminer2/dogeloader.svg",
+    "link": "https://raspelty.github.io/gamecompassassets/Dogeminer2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/Dogeminer2/dogeloader.svg",
     "title": "Doge Miner 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/doom/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/doom/0B894474-D070-4E9C-B1C1-6908E344DA28.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/doom/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/doom/0B894474-D070-4E9C-B1C1-6908E344DA28.jpeg",
     "title": "Doom"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/DOOMORI/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/DOOMORI/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/DOOMORI/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/DOOMORI/splash.png",
     "title": "DOOMORI"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dragon-vs-bricks/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dragon-vs-bricks/icon.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/dragon-vs-bricks/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/dragon-vs-bricks/icon.jpg",
     "title": "Dragon vs Bricks"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/drift-boss/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/drift-boss/index.html",
     "imgSrc": "",
     "title": "Drift Boss"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/drift-hunters/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/drift-hunters/drift-hunters.png",
+    "link": "https://raspelty.github.io/gamecompassassets/drift-hunters/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/drift-hunters/drift-hunters.png",
     "title": "Drift Hunters"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/drive-mad/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/drive-mad/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/drive-mad/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/drive-mad/favicon.ico",
     "title": "Drive Mad"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ducklife4/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ducklife4/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/ducklife4/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ducklife4/splash.jpg",
     "title": "Duck Life 4"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/duke-nukem-2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/duke-nukem-2/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/duke-nukem-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/duke-nukem-2/favicon.ico",
     "title": "Duke Nukem 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dumbwaystodie/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/dumbwaystodie/image.png",
+    "link": "https://raspelty.github.io/gamecompassassets/dumbwaystodie/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/dumbwaystodie/image.png",
     "title": "Dumb Ways to Die"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eaglerfaithful/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/eaglerfaithful/index.html",
     "imgSrc": "",
     "title": "EaglerFaithful"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eaglerjp/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eaglerjp/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/eaglerjp/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/eaglerjp/favicon.ico",
     "title": "EaglerJP"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/earntodie/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/earntodie/loading.png",
+    "link": "https://raspelty.github.io/gamecompassassets/earntodie/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/earntodie/loading.png",
     "title": "Earn to Die"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/edge-surf/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/edge-surf/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/edge-surf/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/edge-surf/splash.png",
     "title": "Edge Surf"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eel-slap/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eel-slap/eel-slap.png",
+    "link": "https://raspelty.github.io/gamecompassassets/eel-slap/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/eel-slap/eel-slap.png",
     "title": "Eel Slap"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eggycar/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/eggycar/eggy-car.png",
+    "link": "https://raspelty.github.io/gamecompassassets/eggycar/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/eggycar/eggy-car.png",
     "title": "Eggy Car"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/escapingtheprison/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/escapingtheprison/escapingtheprison.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/escapingtheprison/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/escapingtheprison/escapingtheprison.jpg",
     "title": "Escaping the Prison"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/evolution/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/evolution/banner.png",
+    "link": "https://raspelty.github.io/gamecompassassets/evolution/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/evolution/banner.png",
     "title": "Evolution"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fairsquares/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fairsquares/index.apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/fairsquares/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fairsquares/index.apple-touch-icon.png",
     "title": "Fair Squares"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fancypantsadventures/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fancypantsadventures/fancypantsadventure.png",
+    "link": "https://raspelty.github.io/gamecompassassets/fancypantsadventures/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fancypantsadventures/fancypantsadventure.png",
     "title": "Fancy Pants Adventures"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fantasy-dash/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/fantasy-dash/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
     "title": "Fantasy Dash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fireboywatergirlforesttemple/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fireboywatergirlforesttemple/icon-60x60.png",
+    "link": "https://raspelty.github.io/gamecompassassets/fireboywatergirlforesttemple/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fireboywatergirlforesttemple/icon-60x60.png",
     "title": "Fireboy and Watergirl"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/flappy plane/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/flappy plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/flappy plane/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/flappy plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
     "title": "Flappy Plane"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/flappybird/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/flappybird/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/flappybird/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/flappybird/logo.png",
     "title": "Flappy Bird"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fleeingthecomplex/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fleeingthecomplex/a.png",
+    "link": "https://raspelty.github.io/gamecompassassets/fleeingthecomplex/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fleeingthecomplex/a.png",
     "title": "Fleeing the Complex"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/flippy-fish/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/flippy-fish/2022_10_28_0jt_Kleki.png",
+    "link": "https://raspelty.github.io/gamecompassassets/flippy-fish/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/flippy-fish/2022_10_28_0jt_Kleki.png",
     "title": "Flippy Fish"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fnaw/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fnaw/char_charles.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/fnaw/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fnaw/char_charles.jpg",
     "title": "Five Nights at Wario's"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fridaynightfunkin/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fridaynightfunkin/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/fridaynightfunkin/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fridaynightfunkin/favicon.png",
     "title": "Friday Night Funkin"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/froggys-battle/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/froggys-battle/banner.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/froggys-battle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/froggys-battle/banner.jpg",
     "title": "Froggy's Battle"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fruitninja/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fruitninja/FruitNinjaTeaser.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/fruitninja/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fruitninja/FruitNinjaTeaser.jpg",
     "title": "Fruit Ninja"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/frying-nemo/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/frying-nemo/icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/frying-nemo/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/frying-nemo/icon.png",
     "title": "Frying Nemo"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fsucraft/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fsucraft/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/fsucraft/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/fsucraft/favicon.ico",
     "title": "FSU Craft"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/fuclient/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/fuclient/index.html",
     "imgSrc": "",
     "title": "FU Client"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gachalife/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gachalife/gacha.webp",
+    "link": "https://raspelty.github.io/gamecompassassets/gachalife/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/gachalife/gacha.webp",
     "title": "Gacha Life"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gdtd/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/gdtd/index.html",
     "imgSrc": "",
     "title": "Geometry Dash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gearsofbabies/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/gearsofbabies/index.html",
     "imgSrc": "",
     "title": "Gears of Babies"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/generic-fishing-game/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/generic-fishing-game/banner.png",
+    "link": "https://raspelty.github.io/gamecompassassets/generic-fishing-game/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/generic-fishing-game/banner.png",
     "title": "Generic Fishing Game"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geochallenge/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/geochallenge/index.html",
     "imgSrc": "",
     "title": "Geo Challenge"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geodashlite/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geodashlite/geodashlite.png",
+    "link": "https://raspelty.github.io/gamecompassassets/geodashlite/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/geodashlite/geodashlite.png",
     "title": "Geometry Dash Lite"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geogeo/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/geogeo/index.html",
     "imgSrc": "",
     "title": "Geo Geo"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geojump/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geojump/loading3860.png",
+    "link": "https://raspelty.github.io/gamecompassassets/geojump/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/geojump/loading3860.png",
     "title": "Geo Jump"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geoneondash/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geoneondash/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/geoneondash/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/geoneondash/icon-256.png",
     "title": "Geo Neon Dash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geops1/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/geops1/index.html",
     "imgSrc": "",
     "title": "Geo PS1"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/georash/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/georash/index.html",
     "imgSrc": "",
     "title": "Geo Rash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/georgeandtheprinter/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/georgeandtheprinter/index.html",
     "imgSrc": "",
     "title": "George and the Printer"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/geotrash/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/geotrash/index.html",
     "imgSrc": "",
     "title": "Geo Trash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gmonster/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/gmonster/index.html",
     "imgSrc": "",
     "title": "G Monster"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/go-ball/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/go-ball/game.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/go-ball/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/go-ball/game.jpg",
     "title": "Go Ball"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/goodnight-meowmie/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/goodnight-meowmie/index.html",
     "imgSrc": "",
     "title": "Goodnight Meowmie"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/goodnight/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/goodnight/goodnight.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/goodnight/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/goodnight/goodnight.jpg",
     "title": "Goodnight"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/google-feud/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/google-feud/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/google-feud/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/google-feud/splash.png",
     "title": "Google Feud"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gravity-soccer/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/gravity-soccer/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/gravity-soccer/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/gravity-soccer/icon-256.png",
     "title": "Gravity Soccer"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/greybox/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/greybox/ico.png",
+    "link": "https://raspelty.github.io/gamecompassassets/greybox/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/greybox/ico.png",
     "title": "Greybox"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/handshakes/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/handshakes/splaher.png",
+    "link": "https://raspelty.github.io/gamecompassassets/handshakes/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/handshakes/splaher.png",
     "title": "Handshakes"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/happy-hop/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/happy-hop/happy-hop-online.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/happy-hop/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/happy-hop/happy-hop-online.jpg",
     "title": "Happy Hop"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/happywheels/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/happywheels/b.png",
+    "link": "https://raspelty.github.io/gamecompassassets/happywheels/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/happywheels/b.png",
     "title": "Happy Wheels"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hardware-tycoon/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hardware-tycoon/icon-114.png",
+    "link": "https://raspelty.github.io/gamecompassassets/hardware-tycoon/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hardware-tycoon/icon-114.png",
     "title": "Hardware Tycoon"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hellscaper/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/hellscaper/index.html",
     "imgSrc": "",
     "title": "Hellscaper"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/highrisehop/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/highrisehop/index.html",
     "imgSrc": "",
     "title": "Highrise Hop"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hill-climb-racing/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hill-climb-racing/splash.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/hill-climb-racing/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hill-climb-racing/splash.jpeg",
     "title": "Hill Climb Racing"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hungry-lamu/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/hungry-lamu/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/hungry-lamu/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/hungry-lamu/splash.png",
     "title": "Hungry Lamu"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/iceagebaby/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/iceagebaby/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/iceagebaby/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/iceagebaby/thumb.png",
     "title": "Ice Age Baby"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/iceagebaby2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/iceagebaby2/pinky.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/iceagebaby2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/iceagebaby2/pinky.jpg",
     "title": "Ice Age Baby 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/idledice/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/idledice/index.html",
     "imgSrc": "",
     "title": "Idle Dice"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/idledices/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/idledices/index.html",
     "imgSrc": "",
     "title": "Idle Dices"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/invite-the-blackbird/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/invite-the-blackbird/index.html",
     "imgSrc": "",
     "title": "Invite the Blackbird"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/iron dash/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/iron dash/9FF39FCC-64B1-491C-97FC-A34357F9583A.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/iron dash/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/iron dash/9FF39FCC-64B1-491C-97FC-A34357F9583A.jpeg",
     "title": "Iron Dash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/jetpack-joyride/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/jetpack-joyride/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/jetpack-joyride/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/jetpack-joyride/splash.jpg",
     "title": "Jetpack Joyride"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/js/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/js/index.html",
     "imgSrc": "",
     "title": "JS"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/just-fall/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/just-fall/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/just-fall/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/just-fall/favicon.png",
     "title": "Just Fall"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/kirkaio/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/kirkaio/C0DADB28-2750-4DF9-9499-4BB61119877D.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/kirkaio/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/kirkaio/C0DADB28-2750-4DF9-9499-4BB61119877D.jpeg",
     "title": "Kirka.io"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/kitchen-gun-game/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/kitchen-gun-game/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/kitchen-gun-game/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/kitchen-gun-game/favicon.png",
     "title": "Kitchen Gun Game"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/knife-master/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/knife-master/512x340.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/knife-master/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/knife-master/512x340.jpg",
     "title": "Knife Master"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/learntofly2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/learntofly2/learn-to-fly-2.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/learntofly2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/learntofly2/learn-to-fly-2.jpg",
     "title": "Learn to Fly 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/legacyflashgames/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/legacyflashgames/index.html",
     "imgSrc": "",
     "title": "Legacy Flash Games"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/level13/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/level13/favicon-16x16.png",
+    "link": "https://raspelty.github.io/gamecompassassets/level13/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/level13/favicon-16x16.png",
     "title": "Level 13"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/linerider/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/linerider/6954B825-C61C-41E0-BFD9-7EA4FC6D0FE1.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/linerider/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/linerider/6954B825-C61C-41E0-BFD9-7EA4FC6D0FE1.jpeg",
     "title": "Line Rider"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ltf-idle/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ltf-idle/thumbnail.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/ltf-idle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ltf-idle/thumbnail.jpg",
     "title": "Learn to Fly Idle"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ltf3/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ltf3/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ltf3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ltf3/logo.png",
     "title": "Learn to Fly 3"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/madalin-stunt-cars-2/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/madalin-stunt-cars-2/index.html",
     "imgSrc": "",
     "title": "Madalin Stunt Cars 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/madalin-stunt-cars-3/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/madalin-stunt-cars-3/index.html",
     "imgSrc": "",
     "title": "Madalin Stunt Cars 3"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mart/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/mart/index.html",
     "imgSrc": "",
     "title": "Mart"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/marvinspectrum/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/marvinspectrum/marvinspectrum.png",
+    "link": "https://raspelty.github.io/gamecompassassets/marvinspectrum/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/marvinspectrum/marvinspectrum.png",
     "title": "Marvin Spectrum"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mc2d/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/mc2d/index.html",
     "imgSrc": "",
     "title": "Minecraft 2D"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mcje/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mcje/C1B5E635-A242-4D0F-8524-DE4B5164F534.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/mcje/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/mcje/C1B5E635-A242-4D0F-8524-DE4B5164F534.jpeg",
     "title": "Minecraft Java"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/merge-round-racers/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/merge-round-racers/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/merge-round-racers/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/merge-round-racers/splash.png",
     "title": "Merge Round Racers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mindustry/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mindustry/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/mindustry/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/mindustry/splash.png",
     "title": "Mindustry"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mineblocks/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/mineblocks/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/mineblocks/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/mineblocks/favicon.png",
     "title": "Mine Blocks"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecraft-15/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecraft-15/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/minecraft-15/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/minecraft-15/favicon.ico",
     "title": "Minecraft 1.5"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecraft-18/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecraft-18/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/minecraft-18/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/minecraft-18/favicon.png",
     "title": "Minecraft 1.8"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecraftbeta/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecraftbeta/bg_main.png",
+    "link": "https://raspelty.github.io/gamecompassassets/minecraftbeta/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/minecraftbeta/bg_main.png",
     "title": "Minecraft Beta"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/minecrafttowerdefence/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/minecrafttowerdefence/index.html",
     "imgSrc": "",
     "title": "Minecraft Tower Defence"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/MonkeyMart/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/MonkeyMart/bg_loading.png",
+    "link": "https://raspelty.github.io/gamecompassassets/MonkeyMart/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/MonkeyMart/bg_loading.png",
     "title": "Monkey Mart"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/monster-tracks/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/monster-tracks/thumb.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/monster-tracks/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/monster-tracks/thumb.jpg",
     "title": "Monster Tracks"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/motox3m2/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/motox3m2/index.html",
     "imgSrc": "",
     "title": "MotoX3M 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/my-rusty-submarine/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/my-rusty-submarine/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/my-rusty-submarine/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/my-rusty-submarine/splash.png",
     "title": "My Rusty Submarine"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ninja/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ninja/logo1.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ninja/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ninja/logo1.png",
     "title": "Ninja"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ninjavsevilcorp/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ninjavsevilcorp/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ninjavsevilcorp/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ninjavsevilcorp/splash.png",
     "title": "Ninja vs Evil Corp"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/noob-steve-parkour/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/noob-steve-parkour/512x340.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/noob-steve-parkour/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/noob-steve-parkour/512x340.jpg",
     "title": "Noob Steve Parkour"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/nsresurgence/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/nsresurgence/neon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/nsresurgence/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/nsresurgence/neon.png",
     "title": "NS Resurgence"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/OfflineParadise/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/OfflineParadise/index.html",
     "imgSrc": "",
     "title": "Offline Paradise"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/osu!/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/osu!/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/osu!/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/osu!/favicon.png",
     "title": "osu!"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/out-of-ctrl/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/out-of-ctrl/index.html",
     "imgSrc": "",
     "title": "Out of Ctrl"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/overwatch/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/overwatch/98FBAD0A-F63A-46B5-81E7-0D3074D23365.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/overwatch/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/overwatch/98FBAD0A-F63A-46B5-81E7-0D3074D23365.jpeg",
     "title": "Overwatch"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ovo/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ovo/ada.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ovo/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ovo/ada.png",
     "title": "OVO"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/papasburgeria/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/papasburgeria/ico.png",
+    "link": "https://raspelty.github.io/gamecompassassets/papasburgeria/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/papasburgeria/ico.png",
     "title": "Papa's Burgeria"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/particleclicker/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/particleclicker/index.html",
     "imgSrc": "",
     "title": "Particle Clicker"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/piclient/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/piclient/B969467B-2495-4872-A739-B6ECA873FF5A.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/piclient/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/piclient/B969467B-2495-4872-A739-B6ECA873FF5A.jpeg",
     "title": "PI Client"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/pigeon-ascent/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/pigeon-ascent/index.apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/pigeon-ascent/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/pigeon-ascent/index.apple-touch-icon.png",
     "title": "Pigeon Ascent"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/pixel-gun-survival/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/pixel-gun-survival/512x384.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/pixel-gun-survival/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/pixel-gun-survival/512x384.jpg",
     "title": "Pixel Gun Survival"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/planetlife/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/planetlife/index.html",
     "imgSrc": "",
     "title": "Planet Life"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/plants vs zombies 1/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/plants vs zombies 1/image_proxy.png",
+    "link": "https://raspelty.github.io/gamecompassassets/plants vs zombies 1/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/plants vs zombies 1/image_proxy.png",
     "title": "Plants vs Zombies"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/poom/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/poom/index.html",
     "imgSrc": "",
     "title": "Poom"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/popcat-classic/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/popcat-classic/android-chrome-192x192.png",
+    "link": "https://raspelty.github.io/gamecompassassets/popcat-classic/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/popcat-classic/android-chrome-192x192.png",
     "title": "Popcat"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/protektor/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/protektor/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/protektor/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/protektor/icon-256.png",
     "title": "Protektor"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rabbit-samurai/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rabbit-samurai/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/rabbit-samurai/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/rabbit-samurai/icon-256.png",
     "title": "Rabbit Samurai"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rabbit-samurai2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rabbit-samurai2/icon-114.png",
+    "link": "https://raspelty.github.io/gamecompassassets/rabbit-samurai2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/rabbit-samurai2/icon-114.png",
     "title": "Rabbit Samurai 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/resent-client/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/resent-client/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/resent-client/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/resent-client/favicon.ico",
     "title": "Resent Client"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rhythm-doctor/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/rhythm-doctor/index.html",
     "imgSrc": "",
     "title": "Rhythm Doctor"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool/riddleschool.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddleschool/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddleschool/riddleschool.png",
     "title": "Riddle School"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool2/riddleschool2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddleschool2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddleschool2/riddleschool2.png",
     "title": "Riddle School 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool3/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool3/riddleschool3.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddleschool3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddleschool3/riddleschool3.png",
     "title": "Riddle School 3"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool4/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool4/riddleschool4.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddleschool4/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddleschool4/riddleschool4.png",
     "title": "Riddle School 4"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool5/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddleschool5/riddleschool5.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddleschool5/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddleschool5/riddleschool5.png",
     "title": "Riddle School 5"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddletransfer/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddletransfer/riddletransfer.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddletransfer/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddletransfer/riddletransfer.png",
     "title": "Riddle Transfer"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddletransfer2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/riddletransfer2/riddletransfer2.png",
+    "link": "https://raspelty.github.io/gamecompassassets/riddletransfer2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/riddletransfer2/riddletransfer2.png",
     "title": "Riddle Transfer 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/roblox copy/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/roblox copy/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/roblox copy/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/roblox copy/splash.png",
     "title": "Roblox Copy"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/roblox/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/roblox/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/roblox/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/roblox/splash.png",
     "title": "Roblox"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/robuxclicker/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/robuxclicker/1517CE7D-1708-489E-9C51-E52887A13855.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/robuxclicker/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/robuxclicker/1517CE7D-1708-489E-9C51-E52887A13855.jpeg",
     "title": "Robux Clicker"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Rocket-League/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Rocket-League/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/Rocket-League/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/Rocket-League/splash.png",
     "title": "Rocket League"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rolling-forests/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/rolling-forests/icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/rolling-forests/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/rolling-forests/icon.png",
     "title": "Rolling Forests"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/roommate/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/roommate/index.html",
     "imgSrc": "",
     "title": "Roommate"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ruffle/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ruffle/favicon-180.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ruffle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ruffle/favicon-180.png",
     "title": "Ruffle (Flash Emulator)"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Run 2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Run 2/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/Run 2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/Run 2/favicon.ico",
     "title": "Run 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/run 3/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/run 3/image_proxy.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/run 3/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/run 3/image_proxy.jpg",
     "title": "Run 3"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/run/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/run/run.png",
+    "link": "https://raspelty.github.io/gamecompassassets/run/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/run/run.png",
     "title": "Run"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/run4bootleg/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/run4bootleg/55favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/run4bootleg/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/run4bootleg/55favicon.ico",
     "title": "Run 4 Bootleg"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/runner/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/runner/loading3860.png",
+    "link": "https://raspelty.github.io/gamecompassassets/runner/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/runner/loading3860.png",
     "title": "Runner"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sandboxels/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sandboxels/sandboxels.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/sandboxels/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sandboxels/sandboxels.jpg",
     "title": "Sandboxels"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/santy-is-home/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/santy-is-home/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/santy-is-home/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/santy-is-home/splash.png",
     "title": "Santy Is Home"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/scooperia/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/scooperia/scoop.png",
+    "link": "https://raspelty.github.io/gamecompassassets/scooperia/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/scooperia/scoop.png",
     "title": "Scooperia"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/scrapmetal/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/scrapmetal/index.html",
     "imgSrc": "",
     "title": "Scrap Metal"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/scratcharia/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/scratcharia/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/scratcharia/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/scratcharia/splash.png",
     "title": "Scratcharia"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ShapeShootout/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ShapeShootout/Icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/ShapeShootout/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/ShapeShootout/Icon.png",
     "title": "Shape Shootout"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shellshockers/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/shellshockers/index.html",
     "imgSrc": "",
     "title": "Shell Shockers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shogunshowdown/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shogunshowdown/19C0D9BB-86C1-4A65-B374-638BD25EE0FC.png",
+    "link": "https://raspelty.github.io/gamecompassassets/shogunshowdown/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/shogunshowdown/19C0D9BB-86C1-4A65-B374-638BD25EE0FC.png",
     "title": "Shogun Showdown"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shotinthedark/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shotinthedark/shot.png",
+    "link": "https://raspelty.github.io/gamecompassassets/shotinthedark/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/shotinthedark/shot.png",
     "title": "Shot in the Dark"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shuttledeck/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/shuttledeck/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/shuttledeck/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/shuttledeck/splash.png",
     "title": "Shuttle Deck"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sky-car-stunt/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sky-car-stunt/512x384.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/sky-car-stunt/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sky-car-stunt/512x384.jpg",
     "title": "Sky Car Stunt"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sleepingbeauty/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sleepingbeauty/sleeping-beauty.png",
+    "link": "https://raspelty.github.io/gamecompassassets/sleepingbeauty/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sleepingbeauty/sleeping-beauty.png",
     "title": "Sleeping Beauty"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slime-rush-td/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slime-rush-td/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/slime-rush-td/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/slime-rush-td/favicon.ico",
     "title": "Slime Rush TD"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slitherio/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slitherio/7EDEF379-07A2-4604-B552-C0A3DB2D70BE.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/slitherio/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/slitherio/7EDEF379-07A2-4604-B552-C0A3DB2D70BE.jpeg",
     "title": "Slither.io"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slope-2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slope-2/fullscreen-button.png",
+    "link": "https://raspelty.github.io/gamecompassassets/slope-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/slope-2/fullscreen-button.png",
     "title": "Slope 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slope-ball/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/slope-ball/icon.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/slope-ball/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/slope-ball/icon.jpg",
     "title": "Slope Ball"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/snowrider3d/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/snowrider3d/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/snowrider3d/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/snowrider3d/favicon.ico",
     "title": "Snow Rider 3D"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/soccer-random/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/soccer-random/banner.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/soccer-random/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/soccer-random/banner.jpg",
     "title": "Soccer Random"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/soccer-skills/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/soccer-skills/android-icon-192x192.png",
+    "link": "https://raspelty.github.io/gamecompassassets/soccer-skills/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/soccer-skills/android-icon-192x192.png",
     "title": "Soccer Skills"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/space-company/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/space-company/SpaceCompanyFavicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/space-company/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/space-company/SpaceCompanyFavicon.png",
     "title": "Space Company"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/spacegarden/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/spacegarden/spl.png",
+    "link": "https://raspelty.github.io/gamecompassassets/spacegarden/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/spacegarden/spl.png",
     "title": "Space Garden"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/spelunky/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/spelunky/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/spelunky/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/spelunky/favicon.ico",
     "title": "Spelunky"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/spinningrat/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/spinningrat/apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/spinningrat/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/spinningrat/apple-touch-icon.png",
     "title": "Spinning Rat"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/squaredash/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/squaredash/index.html",
     "imgSrc": "",
     "title": "Square Dash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/squarerush/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/squarerush/index.html",
     "imgSrc": "",
     "title": "Square Rush"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/ssurferbotleg/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/ssurferbotleg/index.html",
     "imgSrc": "",
     "title": "SSurfer Bot Leg"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/starve/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/starve/index.html",
     "imgSrc": "",
     "title": "Starve"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/station-141/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/station-141/75wxYs.png",
+    "link": "https://raspelty.github.io/gamecompassassets/station-141/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/station-141/75wxYs.png",
     "title": "Station 141"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stationmeltdown/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stationmeltdown/image.png",
+    "link": "https://raspelty.github.io/gamecompassassets/stationmeltdown/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stationmeltdown/image.png",
     "title": "Station Meltdown"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stick-archers/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stick-archers/splash.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stick-archers/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stick-archers/splash.jpg",
     "title": "Stick Archers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stick-duel-battle/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stick-duel-battle/512x340.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stick-duel-battle/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stick-duel-battle/512x340.jpg",
     "title": "Stick Duel Battle"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stick-merge/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stick-merge/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/stick-merge/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stick-merge/splash.png",
     "title": "Stick Merge"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stickman-boost/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stickman-boost/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/stickman-boost/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stickman-boost/icon-256.png",
     "title": "Stickman Boost"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stickman-golf/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stickman-golf/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/stickman-golf/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stickman-golf/splash.png",
     "title": "Stickman Golf"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stickman-hook/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/stickman-hook/unnamed.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/stickman-hook/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/stickman-hook/unnamed.jpg",
     "title": "Stickman Hook"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Stickman-Survival/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Stickman-Survival/Icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/Stickman-Survival/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/Stickman-Survival/Icon.png",
     "title": "Stickman Survival"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/subway-surfers-ny/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/subway-surfers-ny/NewYorkIcon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/subway-surfers-ny/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/subway-surfers-ny/NewYorkIcon.png",
     "title": "Subway Surfers NY"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/subway-surfers/index.html",
     "imgSrc": "",
     "title": "Subway Surfers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/superautopets/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/superautopets/image.png",
+    "link": "https://raspelty.github.io/gamecompassassets/superautopets/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/superautopets/image.png",
     "title": "Super Auto Pets"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/superfowlist/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/superfowlist/fowlist.png",
+    "link": "https://raspelty.github.io/gamecompassassets/superfowlist/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/superfowlist/fowlist.png",
     "title": "Super Fowlist"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/supermarioconstruct/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/supermarioconstruct/textareaimage.png",
+    "link": "https://raspelty.github.io/gamecompassassets/supermarioconstruct/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/supermarioconstruct/textareaimage.png",
     "title": "Super Mario Construct"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/surviv/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/surviv/index.html",
     "imgSrc": "",
     "title": "Surviv"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sushi-unroll/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/sushi-unroll/favicon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/sushi-unroll/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/sushi-unroll/favicon.png",
     "title": "Sushi Unroll"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/swarmsimulator/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/swarmsimulator/index.html",
     "imgSrc": "",
     "title": "Swarm Simulator"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/synesthesia/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/synesthesia/index.apple-touch-icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/synesthesia/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/synesthesia/index.apple-touch-icon.png",
     "title": "Synesthesia"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tactical-weapon-pack-2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tactical-weapon-pack-2/index.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tactical-weapon-pack-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tactical-weapon-pack-2/index.png",
     "title": "Tactical Weapon Pack 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/the-final-earth-2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/the-final-earth-2/sprites.png",
+    "link": "https://raspelty.github.io/gamecompassassets/the-final-earth-2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/the-final-earth-2/sprites.png",
     "title": "The Final Earth 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/the-hotel/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/the-hotel/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/the-hotel/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/the-hotel/splash.png",
     "title": "The Hotel"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/throwrocks/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/throwrocks/card.png",
+    "link": "https://raspelty.github.io/gamecompassassets/throwrocks/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/throwrocks/card.png",
     "title": "Throw Rocks"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tiny-fishing/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tiny-fishing/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tiny-fishing/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tiny-fishing/thumb.png",
     "title": "Tiny Fishing"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tiny-islands/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tiny-islands/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/tiny-islands/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/tiny-islands/splash.png",
     "title": "Tiny Islands"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/townscaper/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/townscaper/index.html",
     "imgSrc": "",
     "title": "Townscaper"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Trimps/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/Trimps/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/Trimps/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/Trimps/favicon.ico",
     "title": "Trimps"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/tube-jumpers/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/tube-jumpers/index.html",
     "imgSrc": "",
     "title": "Tube Jumpers"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/twitch-tetris/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/twitch-tetris/logo.png",
+    "link": "https://raspelty.github.io/gamecompassassets/twitch-tetris/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/twitch-tetris/logo.png",
     "title": "Twitch Tetris"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/unfairmario/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/unfairmario/sus.jpg",
+    "link": "https://raspelty.github.io/gamecompassassets/unfairmario/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/unfairmario/sus.jpg",
     "title": "Unfair Mario"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/veloce/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/veloce/icon.png",
+    "link": "https://raspelty.github.io/gamecompassassets/veloce/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/veloce/icon.png",
     "title": "Veloce"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/vex2/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/vex2/BC5ADE2D-5F7A-4352-A7FD-579517F823E4.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/vex2/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/vex2/BC5ADE2D-5F7A-4352-A7FD-579517F823E4.jpeg",
     "title": "Vex 2"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/vex7/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/vex7/favicon.ico",
+    "link": "https://raspelty.github.io/gamecompassassets/vex7/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/vex7/favicon.ico",
     "title": "Vex 7"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/volley-random/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/volley-random/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/volley-random/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/volley-random/splash.png",
     "title": "Volley Random"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/wallsmash/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/wallsmash/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/wallsmash/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/wallsmash/thumb.png",
     "title": "Wall Smash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/waterworks/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/waterworks/banner.png",
+    "link": "https://raspelty.github.io/gamecompassassets/waterworks/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/waterworks/banner.png",
     "title": "Waterworks"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/weavesilk/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/weavesilk/thumb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/weavesilk/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/weavesilk/thumb.png",
     "title": "Weave Silk"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/webcleaner/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/webcleaner/index.html",
     "imgSrc": "",
     "title": "Web Cleaner"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/webgl-fluid-simulation/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/webgl-fluid-simulation/LDR_LLL1_0.png",
+    "link": "https://raspelty.github.io/gamecompassassets/webgl-fluid-simulation/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/webgl-fluid-simulation/LDR_LLL1_0.png",
     "title": "WebGL Fluid Simulation"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/webretro/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/webretro/index.html",
     "imgSrc": "",
     "title": "Web Retro"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/webxash/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/webxash/index.html",
     "imgSrc": "",
     "title": "Web Xash"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/wiicraft/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/wiicraft/index.html",
     "imgSrc": "",
     "title": "Wii Craft"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/win-the-whitehouse/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/win-the-whitehouse/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/win-the-whitehouse/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/win-the-whitehouse/splash.png",
     "title": "Win the White House"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/wolf2d/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/wolf2d/index.html",
     "imgSrc": "",
     "title": "Wolf 2D"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/wounded-summer-baby-edition/index.html",
+    "link": "https://raspelty.github.io/gamecompassassets/wounded-summer-baby-edition/index.html",
     "imgSrc": "",
     "title": "Wounded Summer Baby Edition"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/x-trial-racing/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/x-trial-racing/icon-256.png",
+    "link": "https://raspelty.github.io/gamecompassassets/x-trial-racing/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/x-trial-racing/icon-256.png",
     "title": "X-Trial Racing"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/xx142-b2exe/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/xx142-b2exe/splash.png",
+    "link": "https://raspelty.github.io/gamecompassassets/xx142-b2exe/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/xx142-b2exe/splash.png",
     "title": "XX142 B2EXE"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/yohoho/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/yohoho/yohoho.png",
+    "link": "https://raspelty.github.io/gamecompassassets/yohoho/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/yohoho/yohoho.png",
     "title": "Yohoho"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/yoshifabrication/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/yoshifabrication/flowwatertm0.png",
+    "link": "https://raspelty.github.io/gamecompassassets/yoshifabrication/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/yoshifabrication/flowwatertm0.png",
     "title": "Yoshi Fabrication"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/zigzag/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/zigzag/4EEE71BF-A06E-478D-B1E0-F67600291BDC.jpeg",
+    "link": "https://raspelty.github.io/gamecompassassets/zigzag/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/zigzag/4EEE71BF-A06E-478D-B1E0-F67600291BDC.jpeg",
     "title": "Zig Zag"
   },
   {
-    "link": "https://raw.gitlab.com/3kh0/3kh0-assets/main/zombs-royale/index.html",
-    "imgSrc": "https://raw.gitlab.com/3kh0/3kh0-assets/main/zombs-royale/zomb.png",
+    "link": "https://raspelty.github.io/gamecompassassets/zombs-royale/index.html",
+    "imgSrc": "https://raspelty.github.io/gamecompassassets/zombs-royale/zomb.png",
     "title": "Zombs Royale"
   }
 ]
