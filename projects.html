@@ -60,7 +60,7 @@
             flex-wrap: wrap;
             gap: 12px;
         }
-        .header-left { display: flex; align-items: center; gap: 12px; }
+        .header-left { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
         .back-btn {
             background: var(--accent);
             color: white;
@@ -79,7 +79,7 @@
         .back-btn:hover { background: var(--accent-hover); transform: scale(1.05); }
         
         /* Flat color buttons */
-        .casino-btn, .unblocker-btn {
+        .nav-btn {
             background: #5686fe;
             color: white;
             text-decoration: none;
@@ -91,13 +91,25 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
             border: none;
             cursor: pointer;
+            display: inline-block;
         }
-        .casino-btn:hover, .unblocker-btn:hover {
+        .nav-btn:hover {
             background: #3b6ef0;
             transform: scale(1.05);
         }
+        .random-btn {
+            background: #8b5cf6;
+        }
+        .random-btn:hover {
+            background: #7c3aed;
+        }
+        .emulator-btn {
+            background: #22c55e;
+        }
+        .emulator-btn:hover {
+            background: #16a34a;
+        }
         
-        h1 { font-size: 1.3rem; font-weight: 600; }
         .theme-toggle {
             background: var(--card-bg);
             border: 1px solid var(--border);
@@ -122,6 +134,67 @@
         }
         .search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(86, 134, 254, 0.2); }
         .game-count { font-size: 13px; color: var(--text-secondary); white-space: nowrap; }
+
+        /* Recently Played Section */
+        .recent-section {
+            padding: 0 25px;
+            max-width: 1600px;
+            margin: 20px auto 0 auto;
+            display: none;
+        }
+        .recent-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+        .recent-header h3 {
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        .clear-recent {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 11px;
+            cursor: pointer;
+        }
+        .clear-recent:hover {
+            color: var(--accent);
+        }
+        .recent-container {
+            display: flex;
+            gap: 15px;
+            overflow-x: auto;
+            padding-bottom: 10px;
+        }
+        .recent-container::-webkit-scrollbar { height: 4px; }
+        .recent-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-decoration: none;
+            width: 80px;
+            flex-shrink: 0;
+        }
+        .recent-icon {
+            width: 60px;
+            height: 60px;
+            background: var(--accent);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            color: white;
+        }
+        .recent-title {
+            font-size: 10px;
+            color: var(--text-primary);
+            text-align: center;
+            margin-top: 6px;
+            word-break: break-word;
+        }
 
         /* Genre Dropdown (Hover) */
         .genre-container {
@@ -186,7 +259,7 @@
             color: white;
         }
 
-        /* Game Grid - Horizontal layout with larger cards */
+        /* Game Grid */
         .games-container {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
@@ -196,7 +269,6 @@
             margin: 0 auto;
         }
 
-        /* Game Card - Larger */
         .game-card {
             background: var(--card-bg);
             border: 1px solid var(--border);
@@ -217,7 +289,6 @@
             border-color: var(--accent);
         }
 
-        /* Game Icon - Larger */
         .game-icon {
             width: 70px;
             height: 70px;
@@ -225,7 +296,6 @@
             object-fit: cover;
             background: var(--bg-secondary);
         }
-        /* Flat color fallback - NO gradient */
         .game-icon[src=""], .game-icon:not([src]), .game-icon.error {
             background: var(--accent);
             display: flex;
@@ -235,7 +305,6 @@
             color: white;
         }
 
-        /* Game Title - Larger */
         .game-title {
             font-size: 13px;
             font-weight: 500;
@@ -297,6 +366,8 @@
             .game-icon { width: 55px; height: 55px; font-size: 26px; }
             .game-title { font-size: 11px; }
             .game-count { font-size: 11px; }
+            .recent-card { width: 65px; }
+            .recent-icon { width: 50px; height: 50px; font-size: 24px; }
         }
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: var(--bg-primary); }
@@ -307,14 +378,25 @@
     <div class="header">
         <div class="header-left">
             <a href="/index.html" class="back-btn" title="Back to Home">✕</a>
-            <a href="/casino.html" class="casino-btn" title="Casino Games">🎰 Casino</a>
-            <a href="https://raspelty.github.io/GUST/" class="unblocker-btn" title="Unblocker Proxy">🌐 Unblocker</a>
+            <a href="/casino.html" class="nav-btn" title="Casino Games">🎰 Casino</a>
+            <a href="https://raspelty.github.io/GUST/" class="nav-btn" title="Unblocker Proxy">🌐 Unblocker</a>
+            <a href="https://raspelty.github.io/EmulatorJS/" class="nav-btn emulator-btn" title="Emulators">🎮 Emulators</a>
+            <a href="#" id="randomGameBtn" class="nav-btn random-btn" title="Random Game">🎲 Random</a>
         </div>
         <button class="theme-toggle" id="themeToggle">🌙 Dark</button>
         <div class="search-wrapper">
             <input type="text" id="searchInput" class="search-input" placeholder="Search games..." autocomplete="off">
         </div>
         <div class="game-count" id="gameCount"></div>
+    </div>
+
+    <!-- Recently Played Section -->
+    <div id="recentSection" class="recent-section">
+        <div class="recent-header">
+            <h3>🕒 Recently Played</h3>
+            <button id="clearRecentBtn" class="clear-recent">Clear</button>
+        </div>
+        <div id="recentContainer" class="recent-container"></div>
     </div>
 
     <!-- Genre Dropdown (Hover) -->
@@ -341,8 +423,85 @@
         let gamesData = [];
         let currentGenre = 'all';
         let currentSearchQuery = '';
+        let recentGames = [];
 
-        // Genre mapping based on game titles
+        // ============ RECENTLY PLAYED FUNCTIONS ============
+        function loadRecentGames() {
+            const saved = localStorage.getItem('recentGames');
+            if (saved) {
+                try {
+                    recentGames = JSON.parse(saved);
+                    updateRecentDisplay();
+                } catch(e) { recentGames = []; }
+            }
+        }
+
+        function saveRecentGames() {
+            localStorage.setItem('recentGames', JSON.stringify(recentGames.slice(0, 6)));
+        }
+
+        function addToRecent(game) {
+            if (!game || !game.link) return;
+            // Remove if already exists
+            recentGames = recentGames.filter(g => g.link !== game.link);
+            // Add to front
+            recentGames.unshift({ link: game.link, title: game.title });
+            // Keep only last 6
+            recentGames = recentGames.slice(0, 6);
+            saveRecentGames();
+            updateRecentDisplay();
+        }
+
+        function updateRecentDisplay() {
+            const recentSection = document.getElementById('recentSection');
+            const recentContainer = document.getElementById('recentContainer');
+            
+            if (!recentSection || !recentContainer) return;
+            
+            if (recentGames.length === 0) {
+                recentSection.style.display = 'none';
+                return;
+            }
+            
+            recentSection.style.display = 'block';
+            recentContainer.innerHTML = recentGames.map(game => `
+                <a href="${game.link}" class="recent-card" onclick="addToRecent({link: '${game.link}', title: '${escapeHtml(game.title)}'});">
+                    <div class="recent-icon">🎮</div>
+                    <span class="recent-title">${escapeHtml(game.title)}</span>
+                </a>
+            `).join('');
+        }
+
+        function clearRecent() {
+            recentGames = [];
+            saveRecentGames();
+            updateRecentDisplay();
+        }
+
+        // ============ RANDOM GAME FUNCTION ============
+        function openRandomGame() {
+            if (gamesData.length > 0) {
+                // Filter by current genre and search if applicable
+                let availableGames = [...gamesData];
+                if (currentSearchQuery) {
+                    availableGames = availableGames.filter(game => game.title.toLowerCase().includes(currentSearchQuery));
+                }
+                if (currentGenre !== 'all') {
+                    availableGames = availableGames.filter(game => getGameGenre(game.title) === currentGenre);
+                }
+                if (availableGames.length === 0) {
+                    alert('No games match the current filters!');
+                    return;
+                }
+                const randomIndex = Math.floor(Math.random() * availableGames.length);
+                const randomGame = availableGames[randomIndex];
+                window.open(randomGame.link, '_blank');
+            } else {
+                alert('Games loading, try again in a moment.');
+            }
+        }
+
+        // ============ GENRE MAPPING ============
         function getGameGenre(title) {
             const lowerTitle = title.toLowerCase();
             if (['slope', 'retro bowl', 'shell shockers', 'krunker', '1v1lol', 'getaway shootout', 'rooftop snipers', 'smash karts', 'paper.io 2'].includes(lowerTitle)) return 'multiplayer';
@@ -374,7 +533,7 @@
             gameCount.textContent = `${games.length} game${games.length !== 1 ? 's' : ''}`;
             container.innerHTML = games.map(game => {
                 const imgSrc = (game.imgSrc && game.imgSrc !== "" && !game.imgSrc.includes('undefined')) ? game.imgSrc : "";
-                return `<a href="${game.link}" class="game-card">
+                return `<a href="${game.link}" class="game-card" onclick="addToRecent({link: '${game.link}', title: '${escapeHtml(game.title)}'});">
                     <img class="game-icon" src="${imgSrc}" alt="${game.title}" onerror="this.style.display='none'; this.insertAdjacentHTML('afterend', '<div class=\\'game-icon\\' style=\\'background: var(--accent); display: flex; align-items: center; justify-content: center;\\'>🎮</div>'); this.remove()">
                     <span class="game-title">${escapeHtml(game.title)}</span>
                 </a>`;
@@ -383,7 +542,7 @@
 
         function escapeHtml(str) { return str.replace(/[&<>]/g, m => m === '&' ? '&amp;' : (m === '<' ? '&lt;' : '&gt;')); }
 
-        // Theme handling
+        // ============ THEME HANDLING ============
         function initTheme() {
             const savedTheme = localStorage.getItem('theme');
             if (savedTheme === 'light') {
@@ -406,7 +565,7 @@
             }
         }
 
-        // Search
+        // ============ SEARCH ============
         let searchTimeout;
         function setupSearch() {
             const searchInput = document.getElementById('searchInput');
@@ -419,7 +578,7 @@
             });
         }
 
-        // Genre buttons - update active state
+        // ============ GENRE BUTTONS ============
         function setupGenres() {
             document.querySelectorAll('.genre-dropdown button').forEach(btn => {
                 btn.addEventListener('click', () => {
@@ -431,7 +590,7 @@
             });
         }
 
-        // Back to top
+        // ============ BACK TO TOP ============
         function setupBackToTop() {
             const btn = document.getElementById('backToTop');
             window.addEventListener('scroll', () => { btn.style.display = window.scrollY > 300 ? 'flex' : 'none'; });
@@ -439,7 +598,7 @@
             btn.style.display = 'none';
         }
 
-        // Load games
+        // ============ LOAD GAMES ============
         async function loadGames() {
             try {
                 const response = await fetch('config/games.json');
@@ -453,11 +612,30 @@
             }
         }
 
+        // ============ INITIALIZE EVERYTHING ============
         initTheme();
         document.getElementById('themeToggle').addEventListener('click', toggleTheme);
         setupBackToTop();
         setupGenres();
         loadGames();
+        loadRecentGames();
+        
+        // Random Game Button
+        const randomBtn = document.getElementById('randomGameBtn');
+        if (randomBtn) {
+            randomBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                openRandomGame();
+            });
+        }
+        
+        // Clear Recent Button
+        const clearRecentBtn = document.getElementById('clearRecentBtn');
+        if (clearRecentBtn) {
+            clearRecentBtn.addEventListener('click', () => {
+                clearRecent();
+            });
+        }
     </script>
 </body>
 </html>
