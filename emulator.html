@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Emulators | RASPELT</title>
+    <title>Emulator Hub | RASPELT</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
@@ -72,8 +72,6 @@
             transition: all 0.2s ease;
         }
         .nav-btn:hover { background: #3b6ef0; transform: scale(1.05); }
-        .emulator-btn { background: #22c55e; }
-        .emulator-btn:hover { background: #16a34a; }
         h1 { font-size: 1.3rem; font-weight: 600; }
         .theme-toggle {
             background: var(--card-bg);
@@ -88,27 +86,42 @@
         h2 { margin-bottom: 20px; font-size: 1.5rem; }
         .emulator-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 24px;
             margin-bottom: 40px;
         }
         .emulator-card {
             background: var(--card-bg);
             border: 1px solid var(--border);
             border-radius: 16px;
-            padding: 20px;
+            padding: 24px;
             text-decoration: none;
             transition: all 0.2s ease;
             display: block;
+            cursor: pointer;
         }
         .emulator-card:hover {
-            transform: translateY(-4px);
+            transform: translateY(-5px);
             background: var(--card-hover);
             border-color: var(--accent);
         }
-        .emulator-card h3 { font-size: 1.3rem; margin-bottom: 8px; color: var(--text-primary); }
-        .emulator-card p { color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 8px; }
-        .emulator-card .systems { font-size: 0.75rem; color: var(--accent); margin-top: 10px; }
+        .emulator-card h3 { font-size: 1.4rem; margin-bottom: 10px; color: var(--text-primary); }
+        .emulator-card p { color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 10px; line-height: 1.4; }
+        .emulator-card .systems { 
+            font-size: 0.75rem; 
+            color: var(--accent); 
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px solid var(--border);
+        }
+        .coming-soon {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .coming-soon:hover {
+            transform: none;
+            background: var(--card-bg);
+        }
         .roms-section {
             background: var(--card-bg);
             border: 1px solid var(--border);
@@ -149,7 +162,7 @@
     <div class="header">
         <div class="header-left">
             <a href="/index.html" class="back-btn" title="Back to Home">✕</a>
-            <h1>🎮 Emulators</h1>
+            <h1>🎮 Emulator Hub</h1>
             <a href="/projects.html" class="nav-btn" title="Back to Games">🎮 Games</a>
             <a href="/casino.html" class="nav-btn" style="background: #fbbf24; color: #1a1a2e;" title="Casino">🎰 Casino</a>
             <a href="https://raspelty.github.io/GUST/" class="nav-btn" title="Unblocker">🌐 Unblocker</a>
@@ -158,23 +171,28 @@
     </div>
 
     <div class="container">
-        <h2>🕹️ Available Emulators</h2>
+        <h2>🕹️ Select an Emulator</h2>
         <div class="emulator-grid">
+            <!-- EmulatorJS Card -->
             <a href="https://raspelty.github.io/EmulatorJS/" class="emulator-card" target="_blank">
                 <h3>🎮 EmulatorJS</h3>
-                <p>A complete multi-system emulator that runs in your browser</p>
+                <p>A complete multi-system emulator that runs entirely in your browser. No downloads required.</p>
                 <div class="systems">Systems: NES, SNES, GB, GBA, N64, PS1, Sega, Atari, and 30+ more</div>
             </a>
+
+            <!-- webretro Card -->
             <a href="https://raspelty.github.io/webretro/" class="emulator-card" target="_blank">
                 <h3>🎮 webretro</h3>
-                <p>RetroArch ported to WebAssembly - includes melonDS for Nintendo DS!</p>
+                <p>RetroArch ported to WebAssembly. Includes melonDS for Nintendo DS games!</p>
                 <div class="systems">Systems: Nintendo DS, GBA, N64, SNES, Genesis, PS1, Saturn, and more</div>
             </a>
-            <a href="#" id="ruffleLink" class="emulator-card">
+
+            <!-- Ruffle Card - Uses CDN, no fork needed -->
+            <div class="emulator-card" id="ruffleCard">
                 <h3>📀 Ruffle</h3>
-                <p>Flash Player emulator - play .swf files directly in your browser</p>
+                <p>Flash Player emulator - play .swf files directly in your browser.</p>
                 <div class="systems">Systems: Flash games, animations, interactive content</div>
-            </a>
+            </div>
         </div>
 
         <div class="roms-section">
@@ -190,7 +208,8 @@
             </div>
         </div>
 
-       
+        <div class="note">
+            ⚠️ Note: You must own the original games to legally download ROMs. These emulators are for playing games you already own.
         </div>
     </div>
 
@@ -218,10 +237,9 @@
             }
         }
 
-        // Ruffle info
-        document.getElementById('ruffleLink')?.addEventListener('click', (e) => {
-            e.preventDefault();
-            alert('Ruffle works automatically! Add this script to any page where you host .swf files:\n\n<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>');
+        // Ruffle info (uses CDN, no fork needed)
+        document.getElementById('ruffleCard').addEventListener('click', () => {
+            alert('Ruffle works automatically! Add this script to any page where you host .swf files:\n\n<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>\n\nThen simply upload your .swf files and they will play!');
         });
 
         initTheme();
