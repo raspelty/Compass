@@ -13,31 +13,31 @@
         }
 
         :root {
-            --bg-primary: #0a0a0a;
-            --bg-secondary: #0f0f0f;
+            --bg-primary: #151517;
+            --bg-secondary: #1b1b1c;
             --card-bg: #1a1a2e;
             --card-hover: #16213e;
             --text-primary: #ffffff;
             --text-secondary: #a0aec0;
-            --accent: #3b82f6;
-            --accent-hover: #2563eb;
+            --accent: #5686fe;
+            --accent-hover: #3b6ef0;
             --border: #2d3748;
             --search-bg: #1a1a2e;
-            --featured-bg: #0f0f0f;
+            --featured-bg: #1b1b1c;
         }
 
         body.light {
-            --bg-primary: #f5f7fa;
+            --bg-primary: #f0f2f5;
             --bg-secondary: #ffffff;
             --card-bg: #ffffff;
             --card-hover: #e0f2fe;
             --text-primary: #1e293b;
             --text-secondary: #64748b;
-            --accent: #3b82f6;
-            --accent-hover: #2563eb;
+            --accent: #5686fe;
+            --accent-hover: #3b6ef0;
             --border: #e2e8f0;
             --search-bg: #ffffff;
-            --featured-bg: #f1f5f9;
+            --featured-bg: #ffffff;
         }
 
         body {
@@ -47,7 +47,7 @@
             min-height: 100vh;
         }
 
-        /* Header Bar - EXACT same */
+        /* Header Bar */
         .header {
             position: sticky;
             top: 0;
@@ -79,9 +79,11 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
         }
         .back-btn:hover { background: var(--accent-hover); transform: scale(1.05); }
-        .casino-btn {
-            background: linear-gradient(135deg, #fbbf24, #f59e0b);
-            color: #1a1a2e;
+        
+        /* Flat color buttons - no gradient */
+        .casino-btn, .unblocker-btn {
+            background: #5686fe;
+            color: white;
             text-decoration: none;
             padding: 8px 20px;
             border-radius: 40px;
@@ -89,8 +91,14 @@
             font-size: 14px;
             transition: all 0.2s ease;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            border: none;
+            cursor: pointer;
         }
-        .casino-btn:hover { transform: scale(1.05); }
+        .casino-btn:hover, .unblocker-btn:hover {
+            background: #3b6ef0;
+            transform: scale(1.05);
+        }
+        
         h1 { font-size: 1.3rem; font-weight: 600; }
         .theme-toggle {
             background: var(--card-bg);
@@ -114,7 +122,7 @@
             font-size: 13px;
             outline: none;
         }
-        .search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2); }
+        .search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(86, 134, 254, 0.2); }
         .game-count { font-size: 13px; color: var(--text-secondary); white-space: nowrap; }
 
         /* Featured Section */
@@ -144,46 +152,41 @@
         .featured-scroll::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 5px; }
         .featured-track {
             display: inline-flex;
-            gap: 15px;
-            animation: scrollAuto 20s linear infinite;
-        }
-        .featured-scroll:hover .featured-track { animation-play-state: paused; }
-        @keyframes scrollAuto {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); }
+            gap: 20px;
         }
         .featured-card {
             background: var(--card-bg);
             border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 10px;
+            border-radius: 16px;
+            padding: 15px;
             text-align: center;
             text-decoration: none;
-            width: 90px;
+            width: 130px;
             display: inline-flex;
             flex-direction: column;
             align-items: center;
-            gap: 6px;
+            gap: 10px;
             transition: all 0.2s ease;
         }
-        .featured-card:hover { transform: translateY(-3px); background: var(--card-hover); border-color: var(--accent); }
+        .featured-card:hover { transform: translateY(-5px); background: var(--card-hover); border-color: var(--accent); }
         .featured-icon {
-            width: 50px;
-            height: 50px;
-            border-radius: 10px;
+            width: 70px;
+            height: 70px;
+            border-radius: 14px;
             background: var(--accent);
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 24px;
+            font-size: 32px;
             color: white;
         }
         .featured-title-text {
-            font-size: 11px;
+            font-size: 13px;
             font-weight: 500;
             color: var(--text-primary);
             white-space: normal;
             word-break: break-word;
+            max-width: 110px;
         }
 
         /* Genre Filter Bar */
@@ -280,8 +283,9 @@
             .game-icon { width: 40px; height: 40px; }
             .game-title { font-size: 9px; }
             .game-count { font-size: 11px; }
-            .featured-card { width: 75px; }
-            .featured-icon { width: 40px; height: 40px; font-size: 20px; }
+            .featured-card { width: 100px; }
+            .featured-icon { width: 55px; height: 55px; font-size: 26px; }
+            .featured-title-text { font-size: 11px; }
         }
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: var(--bg-primary); }
@@ -292,9 +296,9 @@
     <div class="header">
         <div class="header-left">
             <a href="/Compass/index.html" class="back-btn" title="Back to Home">✕</a>
-            <h1>🎮 Games</h1>
+            <h1>🎮</h1>
             <a href="/Compass/casino.html" class="casino-btn" title="Casino Games">🎰 Casino</a>
-            <a href="https://raspelty.github.io/GUST/" class="casino-btn" style="background: linear-gradient(135deg, #3b82f6, #2563eb);" title="Unblocker Proxy">🌐 Unblocker</a>
+            <a href="https://raspelty.github.io/GUST/" class="unblocker-btn" title="Unblocker Proxy">🌐 Unblocker</a>
         </div>
         <button class="theme-toggle" id="themeToggle">🌙 Dark</button>
         <div class="search-wrapper">
@@ -333,9 +337,9 @@
         // Genre mapping based on game titles
         function getGameGenre(title) {
             const lowerTitle = title.toLowerCase();
-            if (['slope', 'retro bowl', 'shell shockers', 'krunker', '1v1lol', 'getaway shootout', 'rooftop snipers'].includes(lowerTitle)) return 'multiplayer';
-            if (['vex 3', 'vex 4', 'vex 5', 'vex 6', 'vex 7', 'n-gon', 'tunnel rush', 'run 3'].includes(lowerTitle)) return 'action';
-            if (['2048', 'cookie clicker', 'duck life', 'duck life 2', 'duck life 3', 'idle breakout'].includes(lowerTitle)) return 'classic';
+            if (['slope', 'retro bowl', 'shell shockers', 'krunker', '1v1lol', 'getaway shootout', 'rooftop snipers', 'smash karts', 'paper.io 2'].includes(lowerTitle)) return 'multiplayer';
+            if (['vex 3', 'vex 4', 'vex 5', 'vex 6', 'vex 7', 'n-gon', 'tunnel rush', 'run 3', 'motox3m'].includes(lowerTitle)) return 'action';
+            if (['2048', 'cookie clicker', 'duck life', 'duck life 2', 'duck life 3', 'idle breakout', 'worlds hardest game'].includes(lowerTitle)) return 'classic';
             return 'arcade';
         }
 
@@ -348,16 +352,15 @@
                 filtered = filtered.filter(game => getGameGenre(game.title) === currentGenre);
             }
             renderGames(filtered);
-            updateFeaturedGames(filtered.slice(0, 12));
+            updateFeaturedGames(filtered.slice(0, 10));
             return filtered;
         }
 
         function updateFeaturedGames(games) {
             const track = document.getElementById('featuredTrack');
             if (!track) return;
-            const gamesToShow = games.length >= 8 ? games.slice(0, 8) : games;
-            const doubleGames = [...gamesToShow, ...gamesToShow];
-            track.innerHTML = doubleGames.map(game => `
+            const gamesToShow = games.slice(0, 8);
+            track.innerHTML = gamesToShow.map(game => `
                 <a href="${game.link}" class="featured-card">
                     <div class="featured-icon">🎮</div>
                     <span class="featured-title-text">${escapeHtml(game.title)}</span>
@@ -368,12 +371,14 @@
             const scrollDiv = document.getElementById('featuredScroll');
             let scrollAmount = 0;
             autoScrollInterval = setInterval(() => {
-                if (scrollDiv && !scrollDiv.matches(':hover')) {
-                    scrollAmount += 1;
-                    if (scrollAmount >= scrollDiv.scrollWidth / 2) scrollAmount = 0;
+                if (scrollDiv && !scrollDiv.matches(':hover') && gamesToShow.length > 2) {
+                    const scrollWidth = scrollDiv.scrollWidth - scrollDiv.clientWidth;
+                    if (scrollWidth <= 0) return;
+                    scrollAmount += 0.8;
+                    if (scrollAmount >= scrollWidth) scrollAmount = 0;
                     scrollDiv.scrollTo({ left: scrollAmount, behavior: 'smooth' });
                 }
-            }, 50);
+            }, 100);
         }
 
         function renderGames(games) {
