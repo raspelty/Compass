@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emulators | RASPELT</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --bg-primary: #151517;
+            --bg-secondary: #1b1b1c;
+            --card-bg: #1a1a2e;
+            --card-hover: #16213e;
+            --text-primary: #ffffff;
+            --text-secondary: #a0aec0;
+            --accent: #5686fe;
+            --accent-hover: #3b6ef0;
+            --border: #2d3748;
+        }
+        body.light {
+            --bg-primary: #f0f2f5;
+            --bg-secondary: #ffffff;
+            --card-bg: #ffffff;
+            --card-hover: #e0f2fe;
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --accent: #5686fe;
+            --accent-hover: #3b6ef0;
+            --border: #e2e8f0;
+        }
+        body {
+            background-color: var(--bg-primary);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            color: var(--text-primary);
+            min-height: 100vh;
+        }
+        .header {
+            position: sticky;
+            top: 0;
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 12px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .header-left { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+        .back-btn {
+            background: var(--accent);
+            color: white;
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .back-btn:hover { background: var(--accent-hover); transform: scale(1.05); }
+        .nav-btn {
+            background: #5686fe;
+            color: white;
+            text-decoration: none;
+            padding: 8px 20px;
+            border-radius: 40px;
+            font-weight: bold;
+            font-size: 14px;
+            transition: all 0.2s ease;
+        }
+        .nav-btn:hover { background: #3b6ef0; transform: scale(1.05); }
+        .emulator-btn { background: #22c55e; }
+        .emulator-btn:hover { background: #16a34a; }
+        h1 { font-size: 1.3rem; font-weight: 600; }
+        .theme-toggle {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 40px;
+            padding: 6px 14px;
+            cursor: pointer;
+            font-size: 13px;
+            color: var(--text-primary);
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        h2 { margin-bottom: 20px; font-size: 1.5rem; }
+        .emulator-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .emulator-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 20px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            display: block;
+        }
+        .emulator-card:hover {
+            transform: translateY(-4px);
+            background: var(--card-hover);
+            border-color: var(--accent);
+        }
+        .emulator-card h3 { font-size: 1.3rem; margin-bottom: 8px; color: var(--text-primary); }
+        .emulator-card p { color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 8px; }
+        .emulator-card .systems { font-size: 0.75rem; color: var(--accent); margin-top: 10px; }
+        .roms-section {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .roms-section h3 { margin-bottom: 15px; }
+        .roms-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        .rom-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.85rem;
+            padding: 5px 0;
+            display: block;
+        }
+        .rom-link:hover { text-decoration: underline; }
+        .note {
+            background: rgba(86, 134, 254, 0.1);
+            border-left: 3px solid var(--accent);
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+        @media (max-width: 600px) {
+            .emulator-grid { grid-template-columns: 1fr; }
+            .header { padding: 10px 15px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-left">
+            <a href="/index.html" class="back-btn" title="Back to Home">✕</a>
+            <h1>🎮 Emulators</h1>
+            <a href="/projects.html" class="nav-btn" title="Back to Games">🎮 Games</a>
+            <a href="/casino.html" class="nav-btn" style="background: #fbbf24; color: #1a1a2e;" title="Casino">🎰 Casino</a>
+            <a href="https://raspelty.github.io/GUST/" class="nav-btn" title="Unblocker">🌐 Unblocker</a>
+        </div>
+        <button class="theme-toggle" id="themeToggle">🌙 Dark</button>
+    </div>
+
+    <div class="container">
+        <h2>🕹️ Available Emulators</h2>
+        <div class="emulator-grid">
+            <a href="https://raspelty.github.io/EmulatorJS/" class="emulator-card" target="_blank">
+                <h3>🎮 EmulatorJS</h3>
+                <p>A complete multi-system emulator that runs in your browser</p>
+                <div class="systems">Systems: NES, SNES, GB, GBA, N64, PS1, Sega, Atari, and 30+ more</div>
+            </a>
+            <a href="https://raspelty.github.io/webretro/" class="emulator-card" target="_blank">
+                <h3>🎮 webretro</h3>
+                <p>RetroArch ported to WebAssembly - includes melonDS for Nintendo DS!</p>
+                <div class="systems">Systems: Nintendo DS, GBA, N64, SNES, Genesis, PS1, Saturn, and more</div>
+            </a>
+            <a href="#" id="ruffleLink" class="emulator-card">
+                <h3>📀 Ruffle</h3>
+                <p>Flash Player emulator - play .swf files directly in your browser</p>
+                <div class="systems">Systems: Flash games, animations, interactive content</div>
+            </a>
+        </div>
+
+        <div class="roms-section">
+            <h3>📥 Where to Find ROMs</h3>
+            <p style="margin-bottom: 15px; font-size: 0.85rem; color: var(--text-secondary);">These sites are trusted sources for ROMs. Always use an adblocker for safety.</p>
+            <div class="roms-list">
+                <a href="https://myrient.com" class="rom-link" target="_blank">🏆 Myrient - Best modern repository, No-Intro sets</a>
+                <a href="https://cdromance.com" class="rom-link" target="_blank">📀 CDRomance - ROM hacks and translations</a>
+                <a href="https://r-roms.github.io" class="rom-link" target="_blank">📖 r/Roms Megathread - Curated safe ROMs</a>
+                <a href="https://edgeemu.net" class="rom-link" target="_blank">🎮 EdgeEmu - No ads, direct downloads</a>
+                <a href="https://vimm.net" class="rom-link" target="_blank">🎮 Vimm's Lair - Classic, safe, trusted</a>
+                <a href="https://myabandonware.com" class="rom-link" target="_blank">💾 MyAbandonware - Old PC/DOS games</a>
+            </div>
+        </div>
+
+       
+        </div>
+    </div>
+
+    <script>
+        function initTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'light') {
+                document.body.classList.add('light');
+                document.getElementById('themeToggle').innerHTML = '☀️ Light';
+            } else {
+                document.body.classList.remove('light');
+                document.getElementById('themeToggle').innerHTML = '🌙 Dark';
+            }
+        }
+
+        function toggleTheme() {
+            if (document.body.classList.contains('light')) {
+                document.body.classList.remove('light');
+                localStorage.setItem('theme', 'dark');
+                document.getElementById('themeToggle').innerHTML = '🌙 Dark';
+            } else {
+                document.body.classList.add('light');
+                localStorage.setItem('theme', 'light');
+                document.getElementById('themeToggle').innerHTML = '☀️ Light';
+            }
+        }
+
+        // Ruffle info
+        document.getElementById('ruffleLink')?.addEventListener('click', (e) => {
+            e.preventDefault();
+            alert('Ruffle works automatically! Add this script to any page where you host .swf files:\n\n<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>');
+        });
+
+        initTheme();
+        document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+    </script>
+</body>
+</html>
